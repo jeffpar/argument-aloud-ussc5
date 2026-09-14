@@ -1,0 +1,518 @@
+[
+  {
+    "id": "2006-002",
+    "title": "Ayers v. Belmontes",
+    "number": "05-493",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-493.htm",
+    "argument": "2006-10-03",
+    "argument_day": "Tuesday, October 3, 2006",
+    "decision": "2006-11-13",
+    "decision_day": "Monday, November 13, 2006",
+    "citation": "549 U.S. 7",
+    "cites": [
+      {
+        "id": "2004-032",
+        "title": "Brown v. Payton (2005)",
+        "term": "2004-10",
+        "decision": "2005-03-22",
+        "count": 3
+      },
+      {
+        "id": "1992-108",
+        "title": "Johnson v. Texas (1993)",
+        "term": "1992-10",
+        "decision": "1993-06-24",
+        "count": 4
+      },
+      {
+        "id": "1989-043",
+        "title": "Boyde v. California (1990)",
+        "term": "1989-10",
+        "decision": "1990-03-05",
+        "count": 4
+      },
+      {
+        "id": "1985-073",
+        "title": "Skipper v. South Carolina (1986)",
+        "term": "1985-10",
+        "decision": "1986-04-29",
+        "count": 3
+      },
+      {
+        "id": "1977-153",
+        "title": "Lockett v. Ohio (1978)",
+        "term": "1977-10",
+        "decision": "1978-07-03",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2006/05-493",
+    "decision_xml": "/courts/ussc/opinions/xml/us549/us549-0007.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep549/usrep549007/usrep549007.pdf",
+    "decision_gov": "https://web.archive.org/web/20141104193246/https://www.supremecourt.gov/opinions/06pdf/05-493.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/549bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-10-03",
+        "title": "Oral Argument on October 3, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2006/05-493.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-10-03",
+        "title": "Oral Argument on October 3, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/05-493/20061003a_05-493.delivery.mp3",
+        "length": "00:58:36.89",
+        "size": 14211951,
+        "bitrate": "32kbps",
+        "text_file": "05-493/2006-10-03-oyez.json",
+        "advocates": [
+          {
+            "name": "MARK A. JOHNSON",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "ERIC S. MULTHAUP",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-11-13",
+        "title": "Opinion Announcement on November 13, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/05-493/20061113o_05-493.delivery.mp3",
+        "length": "00:04:00.48",
+        "size": 1052002,
+        "bitrate": "35kbps",
+        "text_file": "05-493/2006-11-13-oyez.json",
+        "aligned": true
+      }
+    ],
+    "scdb_check": "decision",
+    "scdb_message": "SCDB decision date (2006-10-13) incorrect"
+  },
+  {
+    "id": "2006-075",
+    "title": "Panetti v. Quarterman",
+    "number": "06-6407",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/06-6407.htm",
+    "argument": "2007-04-18",
+    "argument_day": "Wednesday, April 18, 2007",
+    "decision": "2007-06-28",
+    "decision_day": "Thursday, June 28, 2007",
+    "citation": "551 U.S. 930",
+    "cites": [
+      {
+        "id": "2005-047",
+        "title": "Day v. McDonough (2006)",
+        "term": "2005-10",
+        "decision": "2006-04-25",
+        "count": 2
+      },
+      {
+        "id": "2004-036",
+        "title": "Rhines v. Weber (2005)",
+        "term": "2004-10",
+        "decision": "2005-03-30",
+        "count": 2
+      },
+      {
+        "id": "2004-024",
+        "title": "Roper v. Simmons (2005)",
+        "term": "2004-10",
+        "decision": "2005-03-01",
+        "count": 2
+      },
+      {
+        "id": "2002-082",
+        "title": "Wiggins v. Smith (2003)",
+        "term": "2002-10",
+        "decision": "2003-06-26",
+        "count": 2
+      },
+      {
+        "id": "2002-019",
+        "title": "Miller-El v. Cockrell (2003)",
+        "term": "2002-10",
+        "decision": "2003-02-25",
+        "count": 2
+      },
+      {
+        "id": "2001-070",
+        "title": "Atkins v. Virginia (2002)",
+        "term": "2001-10",
+        "decision": "2002-06-20",
+        "count": 2
+      },
+      {
+        "id": "1999-053",
+        "title": "Slack v. McDaniel (2000)",
+        "term": "1999-10",
+        "decision": "2000-04-26",
+        "count": 3
+      },
+      {
+        "id": "1997-063",
+        "title": "Stewart v. Martinez-Villareal (1998)",
+        "term": "1997-10",
+        "decision": "1998-05-18",
+        "count": 4
+      },
+      {
+        "id": "1995-087",
+        "title": "Felker v. Turpin (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-28",
+        "count": 3
+      },
+      {
+        "id": "1990-059",
+        "title": "McCleskey v. Zant (1991)",
+        "term": "1990-10",
+        "decision": "1991-04-16",
+        "count": 2
+      },
+      {
+        "id": "1985-131",
+        "title": "Ford v. Wainwright (1986)",
+        "term": "1985-10",
+        "decision": "1986-06-26",
+        "count": 5
+      },
+      {
+        "id": "1976-060",
+        "title": "Marks v. United States (1977)",
+        "term": "1976-10",
+        "decision": "1977-03-01",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2006/06-6407",
+    "decision_xml": "/courts/ussc/opinions/xml/us551/us551-0930.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep551/usrep551930/usrep551930.pdf",
+    "decision_gov": "https://web.archive.org/web/20141104193246/https://www.supremecourt.gov/opinions/06pdf/06-6407.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/551bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "minority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2007-04-18",
+        "title": "Oral Argument on April 18, 2007",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2006/06-6407.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2007-04-18",
+        "title": "Oral Argument on April 18, 2007",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/06-6407/20070418a_06-6407.delivery.mp3",
+        "length": "01:02:19.59",
+        "size": 15109041,
+        "bitrate": "32kbps",
+        "text_file": "06-6407/2007-04-18-oyez.json",
+        "advocates": [
+          {
+            "name": "GREGORY W. WIERCIOCH",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "R. TED CRUZ",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2007-06-28",
+        "title": "Opinion Announcement on June 28, 2007",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/06-6407/20070628o_06-6407.delivery.mp3",
+        "length": "00:06:03.00",
+        "size": 1541835,
+        "bitrate": "34kbps",
+        "text_file": "06-6407/2007-06-28-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2006-063",
+    "title": "Brendlin v. California",
+    "number": "06-8120",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/06-8120.htm",
+    "argument": "2007-04-23",
+    "argument_day": "Monday, April 23, 2007",
+    "decision": "2007-06-18",
+    "decision_day": "Monday, June 18, 2007",
+    "citation": "551 U.S. 249",
+    "cites": [
+      {
+        "id": "1997-071",
+        "title": "County of Sacramento v. Lewis (1998)",
+        "term": "1997-10",
+        "decision": "1998-05-26",
+        "count": 2
+      },
+      {
+        "id": "1996-026",
+        "title": "Maryland v. Wilson (1997)",
+        "term": "1996-10",
+        "decision": "1997-02-19",
+        "count": 2
+      },
+      {
+        "id": "1995-062",
+        "title": "Whren v. United States (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-10",
+        "count": 2
+      },
+      {
+        "id": "1990-113",
+        "title": "Florida v. Bostick (1991)",
+        "term": "1990-10",
+        "decision": "1991-06-20",
+        "count": 2
+      },
+      {
+        "id": "1990-065",
+        "title": "California v. Hodari D. (1991)",
+        "term": "1990-10",
+        "decision": "1991-04-23",
+        "count": 2
+      },
+      {
+        "id": "1988-053",
+        "title": "Brower v. Inyo County (1989)",
+        "term": "1988-10",
+        "decision": "1989-03-21",
+        "count": 3
+      },
+      {
+        "id": "1979-091",
+        "title": "United States v. Mendenhall (1980)",
+        "term": "1979-10",
+        "decision": "1980-05-27",
+        "count": 2
+      },
+      {
+        "id": "1978-065",
+        "title": "Delaware v. Prouse (1979)",
+        "term": "1978-10",
+        "decision": "1979-03-27",
+        "count": 2
+      },
+      {
+        "id": "1975-182",
+        "title": "United States v. Martinez-Fuerte (1976)",
+        "term": "1975-10",
+        "decision": "1976-07-06",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2006/06-8120",
+    "decision_xml": "/courts/ussc/opinions/xml/us551/us551-0249.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep551/usrep551249/usrep551249.pdf",
+    "decision_gov": "https://web.archive.org/web/20141104193246/https://www.supremecourt.gov/opinions/06pdf/06-8120.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/551bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2007-04-23",
+        "title": "Oral Argument on April 23, 2007",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2006/06-8120.pdf",
+        "journal_ref": "2006.881",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2007-04-23",
+        "title": "Oral Argument on April 23, 2007",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/06-8120/20070423a_06-8120.delivery.mp3",
+        "length": "01:00:37.97",
+        "size": 14706646,
+        "bitrate": "32kbps",
+        "text_file": "06-8120/2007-04-23-oyez.json",
+        "journal_ref": "2006.881",
+        "advocates": [
+          {
+            "name": "ELIZABETH M. CAMPBELL",
+            "title": "MS.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "CLIFFORD E. ZALL",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2007-06-18",
+        "title": "Opinion Announcement on June 18, 2007",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/06-8120/20070618o_06-8120.delivery.mp3",
+        "length": "00:05:08.66",
+        "size": 1324392,
+        "bitrate": "34kbps",
+        "text_file": "06-8120/2007-06-18-oyez.json",
+        "aligned": true
+      }
+    ]
+  }
+]

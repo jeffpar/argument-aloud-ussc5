@@ -1,0 +1,153 @@
+[
+  {
+    "id": "1924-169",
+    "title": "Gitlow v. New York",
+    "tags": [
+      "Noteworthy",
+      "1st Amendment: Speech",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Schwartz",
+      "Curiae: Stone"
+    ],
+    "number": "19",
+    "files": true,
+    "references": false,
+    "argument": "1923-04-12",
+    "argument_day": "Thursday, April 12, 1923",
+    "reargument": "1923-11-23",
+    "reargument_day": "Friday, November 23, 1923",
+    "decision": "1925-06-08",
+    "decision_day": "Monday, June 8, 1925",
+    "citation": "268 U.S. 652",
+    "cites": [
+      {
+        "id": "1920-010",
+        "title": "Gilbert v. Minnesota (1920)",
+        "term": "1920-10",
+        "decision": "1920-12-13",
+        "count": 5
+      },
+      {
+        "id": "1919-130",
+        "title": "Schaefer v. United States (1920)",
+        "term": "1919-10",
+        "decision": "1920-03-01",
+        "count": 4
+      },
+      {
+        "id": "1919-014",
+        "title": "Abrams v. United States (1919)",
+        "term": "1919-10",
+        "decision": "1919-11-10",
+        "count": 2
+      },
+      {
+        "id": "1918-162",
+        "title": "Debs v. United States (1919)",
+        "term": "1918-10",
+        "decision": "1919-03-10",
+        "count": 2
+      },
+      {
+        "id": "1918-168",
+        "title": "Schenck v. United States (1919)",
+        "term": "1918-10",
+        "decision": "1919-03-03",
+        "count": 6
+      },
+      {
+        "id": "1914-215",
+        "title": "Fox v. Washington (1915)",
+        "term": "1914-10",
+        "decision": "1915-02-23",
+        "count": 5
+      },
+      {
+        "id": "1906-112",
+        "title": "Patterson v. Colorado ex rel. Attorney General of Colorado (1907)",
+        "term": "1906-10",
+        "decision": "1907-04-15",
+        "count": 3
+      },
+      {
+        "id": "1896-088",
+        "title": "Robertson v. Baldwin (1897)",
+        "term": "1896-10",
+        "decision": "1897-01-25",
+        "count": 2
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us268/us268-0652.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep268/usrep268652/usrep268652.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-268_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "taft7",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "WILLIAM HOWARD TAFT",
+        "side": "majority"
+      },
+      {
+        "name": "OLIVER HOLMES",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIS VAN DEVANTER",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES MCREYNOLDS",
+        "side": "majority"
+      },
+      {
+        "name": "LOUIS BRANDEIS",
+        "side": "minority"
+      },
+      {
+        "name": "GEORGE SUTHERLAND",
+        "side": "majority"
+      },
+      {
+        "name": "PIERCE BUTLER",
+        "side": "majority"
+      },
+      {
+        "name": "EDWARD SANFORD",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "HARLAN STONE",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "scdb",
+        "type": "argument",
+        "date": "1923-04-12",
+        "title": "Oral Argument on April 12, 1923"
+      },
+      {
+        "source": "scdb",
+        "type": "reargument",
+        "date": "1923-11-23",
+        "title": "Oral Reargument on November 23, 1923"
+      }
+    ]
+  }
+]

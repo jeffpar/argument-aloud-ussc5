@@ -1,0 +1,24 @@
+title: Argument Aloud
+tagline: U.S. Supreme Court Briefs (Group 5)
+description: Historical U.S. Supreme Court Briefs (Group 5) for Argument Aloud.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+webrick:
+  headers:
+    Accept-Ranges: bytes
+    Cache-Control: public, max-age=3600
+    Access-Control-Allow-Origin: "*"
+exclude:
+  - .github/
+  - .history/
+  - CLAUDE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - config.json
+  - package.json
+  - package-lock.json
+  - node_modules/
+include:
+  - .well-known

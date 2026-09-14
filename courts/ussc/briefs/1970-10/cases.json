@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1970-056",
+    "title": "Griggs v. Duke Power Company",
+    "tags": [
+      "Curiae: Biskupic & Witt",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide"
+    ],
+    "number": "124",
+    "files": false,
+    "references": false,
+    "argument": "1970-12-14",
+    "argument_day": "Monday, December 14, 1970",
+    "decision": "1971-03-08",
+    "decision_day": "Monday, March 8, 1971",
+    "citation": "401 U.S. 424",
+    "oyez_url": "https://www.oyez.org/cases/1970/124",
+    "decision_xml": "/courts/ussc/opinions/xml/us401/us401-0424.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep401/usrep401424/usrep401424.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-401_PDFA.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "burger2",
+    "score": "8-0",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "none"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1970-12-14",
+        "title": "Oral Argument on December 14, 1970",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1970/70-124_12-14-1970.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1970-12-14",
+        "title": "Oral Argument on December 14, 1970",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1970/124/19701214a_124.delivery.mp3",
+        "length": "01:01:37.45",
+        "size": 14895271,
+        "bitrate": "32kbps",
+        "text_file": "124/1970-12-14-oyez.json",
+        "advocates": [
+          {
+            "name": "JACK GREENBERG",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "GEORGE W. FERGUSON, JR.",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "LAWRENCE M. COHEN",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

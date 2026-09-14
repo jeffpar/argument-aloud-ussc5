@@ -1,0 +1,471 @@
+[
+  {
+    "id": "1972-048",
+    "title": "Roe v. Wade",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Due Process",
+      "SCGH: Privacy and Personal Autonomy",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Schwartz",
+      "Curiae: Stone",
+      "Curiae: Tribe"
+    ],
+    "number": "70-18",
+    "files": true,
+    "references": true,
+    "previouslyFiled": "1971-10/70-18",
+    "argument": "1971-12-13",
+    "argument_day": "Monday, December 13, 1971",
+    "reargument": "1972-10-11",
+    "reargument_day": "Wednesday, October 11, 1972",
+    "decision": "1973-01-22",
+    "decision_day": "Monday, January 22, 1973",
+    "citation": "410 U.S. 113",
+    "cites": [
+      {
+        "id": "1971-092",
+        "title": "Sierra Club v. Morton (1972)",
+        "term": "1971-10",
+        "decision": "1972-04-19",
+        "count": 2
+      },
+      {
+        "id": "1971-079",
+        "title": "Eisenstadt v. Baird (1972)",
+        "term": "1971-10",
+        "decision": "1972-03-22",
+        "count": 4
+      },
+      {
+        "id": "1970-088",
+        "title": "United States v. Vuitch (1971)",
+        "term": "1970-10",
+        "decision": "1971-04-21",
+        "count": 3
+      },
+      {
+        "id": "1970-036",
+        "title": "Samuels v. Mackell (1971)",
+        "term": "1970-10",
+        "decision": "1971-02-23",
+        "count": 3
+      },
+      {
+        "id": "1970-035",
+        "title": "Younger v. Harris (1971)",
+        "term": "1970-10",
+        "decision": "1971-02-23",
+        "count": 2
+      },
+      {
+        "id": "1968-081",
+        "title": "Shapiro v. Thompson (1969)",
+        "term": "1968-10",
+        "decision": "1969-04-21",
+        "count": 3
+      },
+      {
+        "id": "1968-051",
+        "title": "Golden v. Zwickler (1969)",
+        "term": "1968-10",
+        "decision": "1969-03-03",
+        "count": 2
+      },
+      {
+        "id": "1967-159",
+        "title": "Flast v. Cohen (1968)",
+        "term": "1967-10",
+        "decision": "1968-06-10",
+        "count": 2
+      },
+      {
+        "id": "1967-043",
+        "title": "Katz v. United States (1967)",
+        "term": "1967-10",
+        "decision": "1967-12-18",
+        "count": 3
+      },
+      {
+        "id": "1966-119",
+        "title": "Loving v. Virginia (1967)",
+        "term": "1966-10",
+        "decision": "1967-06-12",
+        "count": 2
+      },
+      {
+        "id": "1964-121",
+        "title": "Griswold v. Connecticut (1965)",
+        "term": "1964-10",
+        "decision": "1965-06-07",
+        "count": 8
+      },
+      {
+        "id": "1964-077",
+        "title": "Dombrowski v. Pfister (1965)",
+        "term": "1964-10",
+        "decision": "1965-04-26",
+        "count": 3
+      },
+      {
+        "id": "1963-165",
+        "title": "Aptheker v. Secretary of State (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-22",
+        "count": 2
+      },
+      {
+        "id": "1962-080",
+        "title": "Ferguson v. Skrupa (1963)",
+        "term": "1962-10",
+        "decision": "1963-04-22",
+        "count": 4
+      },
+      {
+        "id": "1960-130",
+        "title": "Poe v. Ullman (1961)",
+        "term": "1960-10",
+        "decision": "1961-06-19",
+        "count": 2
+      },
+      {
+        "id": "1954-046",
+        "title": "Williamson v. Lee Optical of Okla., Inc. (1955)",
+        "term": "1954-10",
+        "decision": "1955-03-28",
+        "count": 2
+      },
+      {
+        "id": "1943-096",
+        "title": "Prince v. Massachusetts (1944)",
+        "term": "1943-10",
+        "decision": "1944-01-31",
+        "count": 2
+      },
+      {
+        "id": "1941-119",
+        "title": "Skinner v. Oklahoma ex rel. Williamson (1942)",
+        "term": "1941-10",
+        "decision": "1942-06-01",
+        "count": 2
+      },
+      {
+        "id": "1924-161",
+        "title": "Pierce v. Society of Sisters (1925)",
+        "term": "1924-10",
+        "decision": "1925-06-01",
+        "count": 3
+      },
+      {
+        "id": "1922-203",
+        "title": "Meyer v. Nebraska (1923)",
+        "term": "1922-10",
+        "decision": "1923-06-04",
+        "count": 4
+      },
+      {
+        "id": "1915-060",
+        "title": "Truax v. Raich (1915)",
+        "term": "1915-10",
+        "decision": "1915-11-01",
+        "count": 3
+      },
+      {
+        "id": "1904-096",
+        "title": "Lochner v. New York (1905)",
+        "term": "1904-10",
+        "decision": "1905-04-17",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1971/70-18",
+    "decision_xml": "/courts/ussc/opinions/xml/us410/us410-0113.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep410/usrep410113/usrep410113.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-410_PDFA.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "burger4",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1971-12-13",
+        "title": "Oral Argument on December 13, 1971",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1971/70-18_12-13-1971.pdf",
+        "journal_ref": "1971.240"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1971-12-13",
+        "title": "Oral Argument on December 13, 1971",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1971/70-18/19711213a_70-18.delivery.mp3",
+        "length": "01:02:58.22",
+        "size": 15242248,
+        "bitrate": "32kbps",
+        "text_file": "70-18/1971-12-13-oyez.json",
+        "journal_ref": "1971.240",
+        "advocates": [
+          {
+            "name": "SARAH R. WEDDINGTON",
+            "title": "MS.",
+            "role": "appellant"
+          },
+          {
+            "name": "JAY FLOYD",
+            "title": "MR.",
+            "role": "appellant*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "reargument",
+        "date": "1972-10-11",
+        "title": "Oral Reargument on October 11, 1972",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1972/70-18_10-11-1972.pdf",
+        "journal_ref": "1972.113"
+      },
+      {
+        "source": "oyez",
+        "type": "reargument",
+        "date": "1972-10-11",
+        "title": "Oral Reargument on October 11, 1972",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1971/70-18/19721011r_70-18.delivery.mp3",
+        "length": "01:04:00.13",
+        "size": 15464970,
+        "bitrate": "32kbps",
+        "text_file": "70-18/1972-10-11-oyez.json",
+        "journal_ref": "1972.113",
+        "advocates": [
+          {
+            "name": "SARAH R. WEDDINGTON",
+            "title": "MS.",
+            "role": "appellant"
+          },
+          {
+            "name": "ROBERT C. FLOWERS",
+            "title": "MR.",
+            "role": "appellee*"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "1972-105",
+    "title": "Georgia v. United States",
+    "number": "72-75",
+    "files": false,
+    "references": true,
+    "argument": "1973-02-21,1973-02-22",
+    "argument_day": "Wednesday, February 21, 1973; Thursday, February 22, 1973",
+    "decision": "1973-05-07",
+    "decision_day": "Monday, May 7, 1973",
+    "citation": "411 U.S. 526",
+    "cites": [
+      {
+        "id": "1970-021",
+        "title": "Perkins v. Matthews (1971)",
+        "term": "1970-10",
+        "decision": "1971-01-14",
+        "count": 2
+      },
+      {
+        "id": "1968-045",
+        "title": "Allen v. State Board of Elections (1969)",
+        "term": "1968-10",
+        "decision": "1969-03-03",
+        "count": 18
+      },
+      {
+        "id": "1965-064",
+        "title": "South Carolina v. Katzenbach (1966)",
+        "term": "1965-10",
+        "decision": "1966-03-07",
+        "count": 5
+      },
+      {
+        "id": "1963-140",
+        "title": "Reynolds v. Sims (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1972/72-75",
+    "decision_xml": "/courts/ussc/opinions/xml/us411/us411-0526.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411526/usrep411526.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-411_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "burger4",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1973-02-21",
+        "title": "Oral Argument on February 21, 1973",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1972/72-75_02-21-1973.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1973-02-21",
+        "title": "Oral Argument on February 21, 1973",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1972/72-75/19730221a_72-75.delivery.mp3",
+        "length": "00:46:49.34",
+        "size": 11340779,
+        "bitrate": "32kbps",
+        "text_file": "72-75/1973-02-21-oyez.json",
+        "advocates": [
+          {
+            "name": "HAROLD N. HILL, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "LAWRENCE G. WALLACE",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1973-02-22",
+        "title": "Oral Argument on February 22, 1973",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1972/72-75_02-21-1973.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1973-02-22",
+        "title": "Oral Argument on February 22, 1973",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1972/72-75/19730222a_72-75.delivery.mp3",
+        "length": "00:23:01.46",
+        "size": 5629262,
+        "bitrate": "33kbps",
+        "text_file": "72-75/1973-02-22-oyez.json",
+        "advocates": [
+          {
+            "name": "LAWRENCE G. WALLACE",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "HAROLD N. HILL, JR.",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  }
+]

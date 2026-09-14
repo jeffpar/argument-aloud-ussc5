@@ -1,0 +1,115 @@
+[
+  {
+    "id": "1958-001",
+    "title": "Aaron v. Cooper",
+    "number": "1-Misc",
+    "files": false,
+    "references": false,
+    "argument": "1958-08-28",
+    "argument_day": "Thursday, August 28, 1958",
+    "decision": "1958-08-28",
+    "decision_day": "Thursday, August 28, 1958",
+    "citation": "358 U.S. 27",
+    "oyez_url": "https://www.oyez.org/cases/1957/1_misc",
+    "decision_xml": "/courts/ussc/opinions/xml/us358/us358-0027.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep358/usrep358027/usrep358027.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-358_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "warren6",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "FELIX FRANKFURTER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "HAROLD BURTON",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CLARK",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WHITTAKER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1958-08-28",
+        "title": "Oral Argument Part 1 on August 28, 1958",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1957/1/19580828a_1misc_part1.delivery.mp3",
+        "length": "02:00:30.28",
+        "size": 28949776,
+        "bitrate": "32kbps",
+        "text_file": "1-Misc/1958-08-28-oyez-1.json",
+        "advocates": [
+          {
+            "name": "RICHARD C. BUTLER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1958-08-28",
+        "title": "Oral Argument Part 2 on August 28, 1958",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1957/1/19580828a_1misc_part2.delivery.mp3",
+        "length": "01:01:26.09",
+        "size": 14773018,
+        "bitrate": "32kbps",
+        "text_file": "1-Misc/1958-08-28-oyez-2.json",
+        "advocates": [
+          {
+            "name": "RICHARD C. BUTLER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR."
+          },
+          {
+            "name": "J. LEE RANKIN",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "decision",
+    "scdb_message": "SCDB decision date (1958-09-12) incorrect"
+  }
+]

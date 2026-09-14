@@ -1,0 +1,585 @@
+[
+  {
+    "id": "1968-121",
+    "title": "Red Lion Broadcasting Co. v. FCC; United States v. Radio Television News Directors Assn.",
+    "tags": [
+      "Noteworthy",
+      "1st Amendment: Speech",
+      "Historical Briefs",
+      "Curiae: Gunther",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Stone"
+    ],
+    "number": "2;717",
+    "files": true,
+    "references": true,
+    "argument": "1969-04-02,1969-04-03",
+    "argument_day": "Wednesday, April 2, 1969; Thursday, April 3, 1969",
+    "decision": "1969-06-09",
+    "decision_day": "Monday, June 9, 1969",
+    "citation": "395 U.S. 367",
+    "cites": [
+      {
+        "id": "1964-095",
+        "title": "Zemel v. Rusk (1965)",
+        "term": "1964-10",
+        "decision": "1965-05-03",
+        "count": 2
+      },
+      {
+        "id": "1952-103",
+        "title": "FCC v. RCA Communications, Inc. (1953)",
+        "term": "1952-10",
+        "decision": "1953-06-08",
+        "count": 2
+      },
+      {
+        "id": "1951-084",
+        "title": "Joseph Burstyn, Inc. v. Wilson (1952)",
+        "term": "1951-10",
+        "decision": "1952-05-26",
+        "count": 2
+      },
+      {
+        "id": "1944-099",
+        "title": "Associated Press v. United States (1945)",
+        "term": "1944-10",
+        "decision": "1945-06-18",
+        "count": 3
+      },
+      {
+        "id": "1942-051",
+        "title": "National Broadcasting Co. v. United States (1943)",
+        "term": "1942-10",
+        "decision": "1943-05-10",
+        "count": 5
+      },
+      {
+        "id": "1939-099",
+        "title": "FCC v. Pottsville Broadcasting Co. (1940)",
+        "term": "1939-10",
+        "decision": "1940-01-29",
+        "count": 3
+      },
+      {
+        "id": "1932-076",
+        "title": "Federal Radio Commission v. Nelson Brothers Bond & Mortgage Co. (Station WIBO) (1933)",
+        "term": "1932-10",
+        "decision": "1933-05-08",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1968/2",
+    "decision_xml": "/courts/ussc/opinions/xml/us395/us395-0367.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep395/usrep395367/usrep395367.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-395_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "warren13",
+    "score": "7-0",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "none"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1969-04-02",
+        "title": "Oral Argument in No. 2 on April 2, 1969",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-2_04-02-1969.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1969-04-02",
+        "title": "Oral Argument in No. 2 on April 2, 1969",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/2/19690402a_2.delivery.mp3",
+        "length": "01:02:42.16",
+        "size": 15154092,
+        "bitrate": "32kbps",
+        "text_file": "2/1969-04-02-oyez.json",
+        "advocates": [
+          {
+            "name": "ROGER ROBB",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "ERWIN N. GRISWOLD",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1969-04-03",
+        "title": "Oral Argument in No. 2 on April 3, 1969",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-2_04-03-1969.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1969-04-03",
+        "title": "Oral Argument in No. 2 on April 3, 1969",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/2/19690403a_2.delivery.mp3",
+        "length": "00:28:09.89",
+        "size": 6788221,
+        "bitrate": "32kbps",
+        "text_file": "2/1969-04-03-oyez.json",
+        "advocates": [
+          {
+            "name": "ERWIN N. GRISWOLD",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "ROGER ROBB",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1969-04-03",
+        "title": "Oral Argument in No. 717 on April 3, 1969",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-717_04-03-1969.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1969-04-03",
+        "title": "Oral Argument in No. 717 on April 3, 1969",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/2/19690403a_717.delivery.mp3",
+        "length": "02:09:19.31",
+        "size": 31142703,
+        "bitrate": "32kbps",
+        "text_file": "717/1969-04-03-oyez.json",
+        "advocates": [
+          {
+            "name": "ERWIN N. GRISWOLD",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "ARCHIBALD COX, JR.",
+            "title": "MR.,GENERAL",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  },
+  {
+    "id": "1968-045",
+    "title": "Allen v. State Board of Elections",
+    "number": "3;25;26;36",
+    "files": false,
+    "references": true,
+    "argument": "1968-10-15,1968-10-16",
+    "argument_day": "Tuesday, October 15, 1968; Wednesday, October 16, 1968",
+    "decision": "1969-03-03",
+    "decision_day": "Monday, March 3, 1969",
+    "citation": "393 U.S. 544",
+    "cites": [
+      {
+        "id": "1965-064",
+        "title": "South Carolina v. Katzenbach (1966)",
+        "term": "1965-10",
+        "decision": "1966-03-07",
+        "count": 8
+      },
+      {
+        "id": "1965-013",
+        "title": "Swift & Company v. Wickham (1965)",
+        "term": "1965-10",
+        "decision": "1965-11-22",
+        "count": 2
+      },
+      {
+        "id": "1963-140",
+        "title": "Reynolds v. Sims (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 4
+      },
+      {
+        "id": "1960-005",
+        "title": "Gomillion v. Lightfoot (1960)",
+        "term": "1960-10",
+        "decision": "1960-11-14",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1968/3",
+    "decision_xml": "/courts/ussc/opinions/xml/us393/us393-0544.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep393/usrep393544/usrep393544.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-393_PDFA.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "warren12",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority"
+      },
+      {
+        "name": "ABE FORTAS",
+        "side": "majority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1968-10-15",
+        "title": "Oral Argument on October 15, 1968",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-3_10-15-1968.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1968-10-15",
+        "title": "Oral Argument on October 15, 1968",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/3/19681015a_3.delivery.mp3",
+        "length": "00:59:36.74",
+        "size": 14411400,
+        "bitrate": "32kbps",
+        "text_file": "3/1968-10-15-oyez.json",
+        "advocates": [
+          {
+            "name": "NORMAN C. AMAKER",
+            "title": "MR.",
+            "role": "appellant"
+          },
+          {
+            "name": "R.D. MCILWAINE, III",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1968-10-16",
+        "title": "Oral Argument in No. 25 on October 16, 1968",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-25_68-26_68-36_10-16-1968.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1968-10-16",
+        "title": "Oral Argument on October 16, 1968",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/3/19681016a_3.delivery.mp3",
+        "length": "03:09:45.23",
+        "size": 45645385,
+        "bitrate": "32kbps",
+        "text_file": "3/1968-10-16-oyez.json",
+        "advocates": [
+          {
+            "name": "ARMAND DERFNER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "ELLIOTT C.LICHTMAN",
+            "title": "MR."
+          },
+          {
+            "name": "STEPHEN J. POLLAK",
+            "title": "MR."
+          },
+          {
+            "name": "WILLIAM A.ALLAIN",
+            "title": "MR."
+          },
+          {
+            "name": "WILL S.WELLS",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  },
+  {
+    "id": "1968-043",
+    "title": "Tinker v. Des Moines Independent Community School District",
+    "tags": [
+      "Noteworthy",
+      "1st Amendment: Freedom of Speech",
+      "SCGH: Freedom of Speech",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Stone"
+    ],
+    "number": "21",
+    "files": true,
+    "references": true,
+    "argument": "1968-11-12",
+    "argument_day": "Tuesday, November 12, 1968",
+    "decision": "1969-02-24",
+    "decision_day": "Monday, February 24, 1969",
+    "citation": "393 U.S. 503",
+    "cites": [
+      {
+        "id": "1966-044",
+        "title": "Keyishian v. Board of Regents of University of State of New York (1967)",
+        "term": "1966-10",
+        "decision": "1967-01-23",
+        "count": 2
+      },
+      {
+        "id": "1966-005",
+        "title": "Adderley v. Florida (1966)",
+        "term": "1966-10",
+        "decision": "1966-11-14",
+        "count": 4
+      },
+      {
+        "id": "1965-053",
+        "title": "Brown v. Louisiana (1966)",
+        "term": "1965-10",
+        "decision": "1966-02-23",
+        "count": 4
+      },
+      {
+        "id": "1964-034",
+        "title": "Cox v. Louisiana (1965)",
+        "term": "1964-10",
+        "decision": "1965-01-18",
+        "count": 5
+      },
+      {
+        "id": "1962-080",
+        "title": "Ferguson v. Skrupa (1963)",
+        "term": "1962-10",
+        "decision": "1963-04-22",
+        "count": 2
+      },
+      {
+        "id": "1962-052",
+        "title": "Edwards v. South Carolina (1963)",
+        "term": "1962-10",
+        "decision": "1963-02-25",
+        "count": 4
+      },
+      {
+        "id": "1960-019",
+        "title": "Shelton v. Tucker (1960)",
+        "term": "1960-10",
+        "decision": "1960-12-12",
+        "count": 2
+      },
+      {
+        "id": "1942-131",
+        "title": "West Virginia Board of Education v. Barnette (1943)",
+        "term": "1942-10",
+        "decision": "1943-06-14",
+        "count": 5
+      },
+      {
+        "id": "1939-082",
+        "title": "Thornhill v. Alabama (1940)",
+        "term": "1939-10",
+        "decision": "1940-04-22",
+        "count": 2
+      },
+      {
+        "id": "1930-059",
+        "title": "Stromberg v. California (1931)",
+        "term": "1930-10",
+        "decision": "1931-05-18",
+        "count": 2
+      },
+      {
+        "id": "1922-203",
+        "title": "Meyer v. Nebraska (1923)",
+        "term": "1922-10",
+        "decision": "1923-06-04",
+        "count": 7
+      },
+      {
+        "id": "1922-204",
+        "title": "Bartels v. Iowa (1923)",
+        "term": "1922-10",
+        "decision": "1923-06-04",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1968/21",
+    "decision_xml": "/courts/ussc/opinions/xml/us393/us393-0503.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep393/usrep393503/usrep393503.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-393_PDFA.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "warren12",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ABE FORTAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1968-11-12",
+        "title": "Oral Argument on November 12, 1968",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1968/68-21_11-12-1968.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1968-11-12",
+        "title": "Oral Argument on November 12, 1968",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1968/21/19681112a_21.delivery.mp3",
+        "length": "01:08:23.94",
+        "size": 16521237,
+        "bitrate": "32kbps",
+        "text_file": "21/1968-11-12-oyez.json",
+        "advocates": [
+          {
+            "name": "DAN L. JOHNSTON",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "ALLAN A. HERRICK",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

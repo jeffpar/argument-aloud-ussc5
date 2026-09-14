@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1960-005",
+    "title": "Gomillion v. Lightfoot",
+    "tags": [
+      "Noteworthy",
+      "15th Amendment: Other Provisions",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda"
+    ],
+    "number": "32",
+    "files": false,
+    "references": true,
+    "argument": "1960-10-18,1960-10-19",
+    "argument_day": "Tuesday, October 18, 1960; Wednesday, October 19, 1960",
+    "decision": "1960-11-14",
+    "decision_day": "Monday, November 14, 1960",
+    "citation": "364 U.S. 339",
+    "cites": [
+      {
+        "id": "1945-024",
+        "title": "Colegrove v. Green (1946)",
+        "term": "1945-10",
+        "decision": "1946-06-10",
+        "count": 7
+      },
+      {
+        "id": "1907-016",
+        "title": "Hunter v. Pittsburgh (1907)",
+        "term": "1907-10",
+        "decision": "1907-11-18",
+        "count": 6
+      },
+      {
+        "id": "1885-093",
+        "title": "Mobile v. Watson (1886)",
+        "term": "1885-10",
+        "decision": "1886-01-04",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1960/32",
+    "decision_xml": "/courts/ussc/opinions/xml/us364/us364-0339.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep364/usrep364339/usrep364339.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-364_PDFA.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "warren7",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "FELIX FRANKFURTER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "TOM CLARK",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "CHARLES WHITTAKER",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1960-10-18",
+        "title": "Oral Argument on October 18, 1960",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1960/32/19601018a_32.delivery.mp3",
+        "length": "00:32:09.40",
+        "size": 7822064,
+        "bitrate": "32kbps",
+        "text_file": "32/1960-10-18-oyez.json",
+        "advocates": [
+          {
+            "name": "FRED D. GRAY",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "ROBERT L. CARTER",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1960-10-19",
+        "title": "Oral Argument on October 19, 1960",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1960/32/19601019a_32.delivery.mp3",
+        "length": "01:31:52.96",
+        "size": 22156288,
+        "bitrate": "32kbps",
+        "text_file": "32/1960-10-19-oyez.json",
+        "advocates": [
+          {
+            "name": "ROBERT L. CARTER",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "PHILIP ELMAN",
+            "title": "MR."
+          },
+          {
+            "name": "JAMES J. CARTER",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  }
+]

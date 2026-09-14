@@ -1,0 +1,199 @@
+[
+  {
+    "id": "1955-049",
+    "title": "Pennsylvania v. Nelson",
+    "tags": [
+      "Noteworthy",
+      "Subversive Activities",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: LII",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda"
+    ],
+    "number": "10",
+    "files": true,
+    "references": true,
+    "argument": "1955-11-15,1955-11-16",
+    "argument_day": "Tuesday, November 15, 1955; Wednesday, November 16, 1955",
+    "decision": "1956-04-02",
+    "decision_day": "Monday, April 2, 1956",
+    "citation": "350 U.S. 497",
+    "cites": [
+      {
+        "id": "1940-064",
+        "title": "Hines v. Davidowitz (1941)",
+        "term": "1940-10",
+        "decision": "1941-01-20",
+        "count": 9
+      },
+      {
+        "id": "1926-050",
+        "title": "Whitney v. California (1927)",
+        "term": "1926-10",
+        "decision": "1927-05-16",
+        "count": 2
+      },
+      {
+        "id": "1924-169",
+        "title": "Gitlow v. New York (1925)",
+        "term": "1924-10",
+        "decision": "1925-06-08",
+        "count": 3
+      },
+      {
+        "id": "1922-050",
+        "title": "United States v. Lanza (1922)",
+        "term": "1922-10",
+        "decision": "1922-12-11",
+        "count": 2
+      },
+      {
+        "id": "1920-010",
+        "title": "Gilbert v. Minnesota (1920)",
+        "term": "1920-10",
+        "decision": "1920-12-13",
+        "count": 5
+      },
+      {
+        "id": "1914-122",
+        "title": "Charleston & Western Carolina Railway Co. v. Varnville Furniture Co. (1915)",
+        "term": "1914-10",
+        "decision": "1915-06-01",
+        "count": 2
+      },
+      {
+        "id": "1847-025",
+        "title": "Fox v. Ohio (1847)",
+        "term": "1847-01",
+        "decision": "1847-02-22",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1955/10",
+    "decision_xml": "/courts/ussc/opinions/xml/us350/us350-0497.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep350/usrep350497/usrep350497.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-350_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "warren3",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "STANLEY REED",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "FELIX FRANKFURTER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "HAROLD BURTON",
+        "side": "minority"
+      },
+      {
+        "name": "TOM CLARK",
+        "side": "majority"
+      },
+      {
+        "name": "SHERMAN MINTON",
+        "side": "minority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1955-11-15",
+        "title": "Oral Argument on November 15, 1955",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1955/10/19551115a_10.delivery.mp3",
+        "length": "00:46:10.49",
+        "size": 11110651,
+        "bitrate": "32kbps",
+        "text_file": "10/1955-11-15-oyez.json",
+        "advocates": [
+          {
+            "name": "FRANK F. TRUSCOTT",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1955-11-16",
+        "title": "Oral Argument Part 1 on November 16, 1955",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1955/10/19551116a_10_part1.delivery.mp3",
+        "length": "01:55:55.73",
+        "size": 27851588,
+        "bitrate": "32kbps",
+        "text_file": "10/1955-11-16-oyez-1.json",
+        "advocates": [
+          {
+            "name": "HERBERT S. THATCHER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "LOUIS C. WYMAN",
+            "title": "MR."
+          },
+          {
+            "name": "CHARLES F. BARBER",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1955-11-16",
+        "title": "Oral Argument Part 2 on November 16, 1955",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1955/10/19551116a_10_part2.delivery.mp3",
+        "length": "00:25:14.76",
+        "size": 6087722,
+        "bitrate": "32kbps",
+        "text_file": "10/1955-11-16-oyez-2.json",
+        "advocates": [
+          {
+            "name": "HERBERT S. THATCHER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "HARRY F. STAMBAUGH",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  }
+]

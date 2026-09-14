@@ -1,0 +1,2350 @@
+[
+  {
+    "id": "2005-005",
+    "title": "IBP, Inc. v. Alvarez",
+    "number": "03-1238;04-66",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/03-1238.htm",
+    "argument": "2005-10-03",
+    "argument_day": "Monday, October 3, 2005",
+    "decision": "2005-11-08",
+    "decision_day": "Tuesday, November 8, 2005",
+    "citation": "546 U.S. 21",
+    "cites": [
+      {
+        "id": "1955-023",
+        "title": "Steiner v. Mitchell (1956)",
+        "term": "1955-10",
+        "decision": "1956-01-30",
+        "count": 2
+      },
+      {
+        "id": "1945-099",
+        "title": "Anderson v. Mt. Clemens Pottery Co. (1946)",
+        "term": "1945-10",
+        "decision": "1946-06-10",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/03-1238",
+    "decision_xml": "/courts/ussc/opinions/xml/us546/us546-0021.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546021/usrep546021.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/546bv.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts1",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-10-03",
+        "title": "Oral Argument on October 3, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/03-1238.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-10-03",
+        "title": "Oral Argument on October 3, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/03-1238/20051003a_03-1238.delivery.mp3",
+        "length": "00:59:18.14",
+        "size": 14388355,
+        "bitrate": "32kbps",
+        "text_file": "03-1238/2005-10-03-oyez.json",
+        "advocates": [
+          {
+            "name": "CARTER G. PHILLIPS",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "THOMAS C. GOLDSTEIN",
+            "title": "MR.",
+            "role": "respondent"
+          },
+          {
+            "name": "IRVING L. GORNSTEIN",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2005-11-08",
+        "title": "Opinion Announcement on November 8, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/03-1238/20051108o_03-1238.delivery.mp3",
+        "length": "00:01:25.34",
+        "size": 429829,
+        "bitrate": "40kbps",
+        "text_file": "03-1238/2005-11-08-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-018",
+    "title": "Gonzales v. Oregon",
+    "number": "04-623",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-623.htm",
+    "argument": "2005-10-05",
+    "argument_day": "Wednesday, October 5, 2005",
+    "decision": "2006-01-17",
+    "decision_day": "Tuesday, January 17, 2006",
+    "citation": "546 U.S. 243",
+    "cites": [
+      {
+        "id": "2003-049",
+        "title": "Household Credit Services, Inc. v. Pfennig (2004)",
+        "term": "2003-10",
+        "decision": "2004-04-21",
+        "count": 2
+      },
+      {
+        "id": "2001-071",
+        "title": "Rush Prudential HMO, Inc. v. Moran (2002)",
+        "term": "2001-10",
+        "decision": "2002-06-20",
+        "count": 2
+      },
+      {
+        "id": "2000-076",
+        "title": "United States v. Mead Corp. (2001)",
+        "term": "2000-10",
+        "decision": "2001-06-18",
+        "count": 3
+      },
+      {
+        "id": "2000-025",
+        "title": "Whitman v. American Trucking Associations, Inc. (2001)",
+        "term": "2000-10",
+        "decision": "2001-02-27",
+        "count": 3
+      },
+      {
+        "id": "1999-038",
+        "title": "Food and Drug Administration v. Brown & Williamson Tobacco Corp. (2000)",
+        "term": "1999-10",
+        "decision": "2000-03-21",
+        "count": 2
+      },
+      {
+        "id": "1998-083",
+        "title": "Sutton v. United Air Lines, Inc. (1999)",
+        "term": "1998-10",
+        "decision": "1999-06-22",
+        "count": 2
+      },
+      {
+        "id": "1996-091",
+        "title": "Washington v. Glucksberg (1997)",
+        "term": "1996-10",
+        "decision": "1997-06-26",
+        "count": 2
+      },
+      {
+        "id": "1996-029",
+        "title": "Auer v. Robbins (1997)",
+        "term": "1996-10",
+        "decision": "1997-02-19",
+        "count": 3
+      },
+      {
+        "id": "1995-084",
+        "title": "Medtronic Inc. v. Lohr (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-26",
+        "count": 2
+      },
+      {
+        "id": "1993-053",
+        "title": "BFP v. Resolution Trust Corp. (1994)",
+        "term": "1993-10",
+        "decision": "1994-05-23",
+        "count": 2
+      },
+      {
+        "id": "1990-114",
+        "title": "Gregory v. Ashcroft (1991)",
+        "term": "1990-10",
+        "decision": "1991-06-20",
+        "count": 2
+      },
+      {
+        "id": "1988-068",
+        "title": "Mississippi Choctaw Indian Band v. Holyfield (1989)",
+        "term": "1988-10",
+        "decision": "1989-04-03",
+        "count": 2
+      },
+      {
+        "id": "1984-154",
+        "title": "Atascadero State Hospital v. Scanlon (1985)",
+        "term": "1984-10",
+        "decision": "1985-06-28",
+        "count": 2
+      },
+      {
+        "id": "1984-107",
+        "title": "Metropolitan Life Insurance Company v. Massachusetts (1985)",
+        "term": "1984-10",
+        "decision": "1985-06-03",
+        "count": 2
+      },
+      {
+        "id": "1983-134",
+        "title": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc. (1984)",
+        "term": "1983-10",
+        "decision": "1984-06-25",
+        "count": 4
+      },
+      {
+        "id": "1975-017",
+        "title": "United States v. Moore (1975)",
+        "term": "1975-10",
+        "decision": "1975-12-09",
+        "count": 2
+      },
+      {
+        "id": "1944-015",
+        "title": "Skidmore v. Swift & Co. (1944)",
+        "term": "1944-10",
+        "decision": "1944-12-04",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-623",
+    "decision_xml": "/courts/ussc/opinions/xml/us546/us546-0243.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546243/usrep546243.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/546bv.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts1",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "minority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-10-05",
+        "title": "Oral Argument on October 5, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-623.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-10-05",
+        "title": "Oral Argument on October 5, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-623/20051005a_04-623.delivery.mp3",
+        "length": "01:00:37.21",
+        "size": 14705740,
+        "bitrate": "32kbps",
+        "text_file": "04-623/2005-10-05-oyez.json",
+        "advocates": [
+          {
+            "name": "PAUL D. CLEMENT",
+            "title": "MR.,GENERAL",
+            "role": "petitioner"
+          },
+          {
+            "name": "ROBERT M. ATKINSON",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-01-17",
+        "title": "Opinion Announcement on January 17, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-623/20060117o_04-623.delivery.mp3",
+        "length": "00:05:59.03",
+        "size": 1524474,
+        "bitrate": "34kbps",
+        "text_file": "04-623/2006-01-17-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-007",
+    "title": "Schaffer ex rel. Schaffer v. Weast",
+    "number": "04-698",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-698.htm",
+    "argument": "2005-10-05",
+    "argument_day": "Wednesday, October 5, 2005",
+    "decision": "2005-11-14",
+    "decision_day": "Monday, November 14, 2005",
+    "citation": "546 U.S. 49",
+    "cites": [
+      {
+        "id": "2003-026",
+        "title": "Alaska Dept. of Environmental Conserv. v. EPA (2004)",
+        "term": "2003-10",
+        "decision": "2004-01-21",
+        "count": 3
+      },
+      {
+        "id": "1993-078",
+        "title": "Director, Office of Workers' Compensation Programs v. Greenwich Collieries (1994)",
+        "term": "1993-10",
+        "decision": "1994-06-20",
+        "count": 2
+      },
+      {
+        "id": "1992-112",
+        "title": "St. Mary's Honor Center v. Hicks (1993)",
+        "term": "1992-10",
+        "decision": "1993-06-25",
+        "count": 2
+      },
+      {
+        "id": "1981-151",
+        "title": "Board of Education of Hendrick Hudson Central School Dist., Westchester County v. Rowley (1982)",
+        "term": "1981-10",
+        "decision": "1982-06-28",
+        "count": 2
+      },
+      {
+        "id": "1957-026",
+        "title": "United States v. New York, New Haven & Hartford Railroad Co. (1957)",
+        "term": "1957-10",
+        "decision": "1957-12-16",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-698",
+    "decision_xml": "/courts/ussc/opinions/xml/us546/us546-0049.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546049/usrep546049.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/546bv.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts1",
+    "score": "6-2",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "none"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-10-05",
+        "title": "Oral Argument on October 5, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-698.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-10-05",
+        "title": "Oral Argument on October 5, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-698/20051005a_04-698.delivery.mp3",
+        "length": "00:59:52.83",
+        "size": 14526526,
+        "bitrate": "32kbps",
+        "text_file": "04-698/2005-10-05-oyez.json",
+        "advocates": [
+          {
+            "name": "WILLIAM H. HURD",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "GREGORY G. GARRE",
+            "title": "MR.",
+            "role": "respondent"
+          },
+          {
+            "name": "DAVID B. SALMONS",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2005-11-14",
+        "title": "Opinion Announcement on November 14, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-698/20051114o_04-698.delivery.mp3",
+        "length": "00:02:44.83",
+        "size": 747725,
+        "bitrate": "36kbps",
+        "text_file": "04-698/2005-11-14-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-006",
+    "title": "United States v. Olson",
+    "number": "04-759",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-759.htm",
+    "argument": "2005-10-12",
+    "argument_day": "Wednesday, October 12, 2005",
+    "decision": "2005-11-08",
+    "decision_day": "Tuesday, November 8, 2005",
+    "citation": "546 U.S. 43",
+    "cites": [
+      {
+        "id": "1956-030",
+        "title": "Rayonier Inc. v. United States (1957)",
+        "term": "1956-10",
+        "decision": "1957-01-28",
+        "count": 2
+      },
+      {
+        "id": "1955-007",
+        "title": "Indian Towing Company, Inc. v. United States (1955)",
+        "term": "1955-10",
+        "decision": "1955-11-21",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-759",
+    "decision_xml": "/courts/ussc/opinions/xml/us546/us546-0043.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546043/usrep546043.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/546bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts1",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-10-12",
+        "title": "Oral Argument on October 12, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-759.pdf",
+        "journal_ref": "2005.252",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-10-12",
+        "title": "Oral Argument on October 12, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-759/20051012a_04-759.delivery.mp3",
+        "length": "00:56:33.23",
+        "size": 13720056,
+        "bitrate": "32kbps",
+        "text_file": "04-759/2005-10-12-oyez.json",
+        "journal_ref": "2005.252",
+        "advocates": [
+          {
+            "name": "DEANNE E. MAYNARD",
+            "title": "MS.",
+            "role": "petitioner"
+          },
+          {
+            "name": "THOMAS G. COTTER",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2005-11-08",
+        "title": "Opinion Announcement on November 8, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-759/20051108o_04-759.delivery.mp3",
+        "length": "00:03:17.07",
+        "size": 876951,
+        "bitrate": "36kbps",
+        "text_file": "04-759/2005-11-08-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-035",
+    "title": "Oregon v. Guzek",
+    "number": "04-928",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-928.htm",
+    "argument": "2005-12-07",
+    "argument_day": "Wednesday, December 7, 2005",
+    "decision": "2006-02-22",
+    "decision_day": "Wednesday, February 22, 2006",
+    "citation": "546 U.S. 517",
+    "cites": [
+      {
+        "id": "1988-145",
+        "title": "Penry v. Lynaugh (1989)",
+        "term": "1988-10",
+        "decision": "1989-06-26",
+        "count": 2
+      },
+      {
+        "id": "1987-132",
+        "title": "Franklin v. Lynaugh (1988)",
+        "term": "1987-10",
+        "decision": "1988-06-22",
+        "count": 3
+      },
+      {
+        "id": "1982-162",
+        "title": "California v. Ramos (1983)",
+        "term": "1982-10",
+        "decision": "1983-07-06",
+        "count": 2
+      },
+      {
+        "id": "1981-034",
+        "title": "Eddings v. Oklahoma (1982)",
+        "term": "1981-10",
+        "decision": "1982-01-19",
+        "count": 2
+      },
+      {
+        "id": "1980-010",
+        "title": "Allen v. McCurry (1980)",
+        "term": "1980-10",
+        "decision": "1980-12-09",
+        "count": 2
+      },
+      {
+        "id": "1978-104",
+        "title": "Green v. Georgia (1979)",
+        "term": "1978-10",
+        "decision": "1979-05-29",
+        "count": 3
+      },
+      {
+        "id": "1977-153",
+        "title": "Lockett v. Ohio (1978)",
+        "term": "1977-10",
+        "decision": "1978-07-03",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-928",
+    "decision_xml": "/courts/ussc/opinions/xml/us546/us546-0517.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep546/usrep546517/usrep546517.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/546bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "8-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "none"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-12-07",
+        "title": "Oral Argument on December 7, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-928.pdf",
+        "journal_ref": "2005.451",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-12-07",
+        "title": "Oral Argument on December 7, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-928/20051207a_04-928.delivery.mp3",
+        "length": "00:59:16.81",
+        "size": 14380937,
+        "bitrate": "32kbps",
+        "text_file": "04-928/2005-12-07-oyez.json",
+        "journal_ref": "2005.451",
+        "advocates": [
+          {
+            "name": "MARY H. WILLIAMS",
+            "title": "MS.",
+            "role": "petitioner"
+          },
+          {
+            "name": "KANNON K. SHANMUGAM",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "RICHARD L. WOLF",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-02-22",
+        "title": "Opinion Announcement on February 22, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-928/20060222o_04-928.delivery.mp3",
+        "length": "00:03:46.43",
+        "size": 994255,
+        "bitrate": "35kbps",
+        "text_file": "04-928/2006-02-22-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-061",
+    "title": "Whitman v. Dept. of Transportation",
+    "number": "04-1131",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-1131.htm",
+    "argument": "2005-12-05",
+    "argument_day": "Monday, December 5, 2005",
+    "decision": "2006-06-05",
+    "decision_day": "Monday, June 5, 2006",
+    "citation": "547 U.S. 512",
+    "oyez_url": "https://www.oyez.org/cases/2005/04-1131",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0512.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547512/usrep547512.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "8-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "none"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-12-05",
+        "title": "Oral Argument on December 5, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1131.pdf",
+        "journal_ref": "2005.446",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-12-05",
+        "title": "Oral Argument on December 5, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1131/20051205a_04-1131.delivery.mp3",
+        "length": "01:00:12.26",
+        "size": 14604871,
+        "bitrate": "32kbps",
+        "text_file": "04-1131/2005-12-05-oyez.json",
+        "journal_ref": "2005.446",
+        "advocates": [
+          {
+            "name": "PAMELA S. KARLAN",
+            "title": "MS.",
+            "role": "petitioner"
+          },
+          {
+            "name": "MALCOLM L. STEWART",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-05",
+        "title": "Opinion Announcement on June 5, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1131/20060605o_04-1131.delivery.mp3",
+        "length": "00:00:55.22",
+        "size": 309567,
+        "bitrate": "45kbps",
+        "text_file": "04-1131/2006-06-05-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-039",
+    "title": "Rumsfeld v. Forum for Academic and Institutional Rights, Inc.",
+    "tags": [
+      "Noteworthy",
+      "Infrequently litigated statutes"
+    ],
+    "number": "04-1152",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-1152.htm",
+    "argument": "2005-12-06",
+    "argument_day": "Tuesday, December 6, 2005",
+    "decision": "2006-03-06",
+    "decision_day": "Monday, March 6, 2006",
+    "citation": "547 U.S. 47",
+    "cites": [
+      {
+        "id": "2002-076",
+        "title": "United States v. American Library Assn., Inc. (2003)",
+        "term": "2002-10",
+        "decision": "2003-06-23",
+        "count": 2
+      },
+      {
+        "id": "1999-085",
+        "title": "Boy Scouts of America v. Dale (2000)",
+        "term": "1999-10",
+        "decision": "2000-06-28",
+        "count": 2
+      },
+      {
+        "id": "1994-083",
+        "title": "Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc. (1995)",
+        "term": "1994-10",
+        "decision": "1995-06-19",
+        "count": 2
+      },
+      {
+        "id": "1988-124",
+        "title": "Texas v. Johnson (1989)",
+        "term": "1988-10",
+        "decision": "1989-06-21",
+        "count": 2
+      },
+      {
+        "id": "1976-088",
+        "title": "Wooley v. Maynard (1977)",
+        "term": "1976-10",
+        "decision": "1977-04-20",
+        "count": 2
+      },
+      {
+        "id": "1967-135",
+        "title": "United States v. O'Brien (1968)",
+        "term": "1967-10",
+        "decision": "1968-05-27",
+        "count": 2
+      },
+      {
+        "id": "1942-131",
+        "title": "West Virginia Board of Education v. Barnette (1943)",
+        "term": "1942-10",
+        "decision": "1943-06-14",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-1152",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0047.xml",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "8-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "none"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2005-12-06",
+        "title": "Oral Argument on December 6, 2005",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1152.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2005-12-06",
+        "title": "Oral Argument on December 6, 2005",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1152/20051206a_04-1152.delivery.mp3",
+        "length": "01:00:24.49",
+        "size": 14656297,
+        "bitrate": "32kbps",
+        "text_file": "04-1152/2005-12-06-oyez.json",
+        "advocates": [
+          {
+            "name": "PAUL D. CLEMENT",
+            "title": "MR.,GENERAL",
+            "role": "petitioner"
+          },
+          {
+            "name": "E. JOSHUA ROSENKRANZ",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-03-06",
+        "title": "Opinion Announcement on March 6, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1152/20060306o_04-1152.delivery.mp3",
+        "length": "00:07:22.57",
+        "size": 1859109,
+        "bitrate": "34kbps",
+        "text_file": "04-1152/2006-03-06-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-048",
+    "title": "Jones v. Flowers",
+    "number": "04-1477",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-1477.htm",
+    "argument": "2006-01-17",
+    "argument_day": "Tuesday, January 17, 2006",
+    "decision": "2006-04-26",
+    "decision_day": "Wednesday, April 26, 2006",
+    "citation": "547 U.S. 220",
+    "cites": [
+      {
+        "id": "2001-010",
+        "title": "Dusenbery v. United States (2002)",
+        "term": "2001-10",
+        "decision": "2002-01-08",
+        "count": 3
+      },
+      {
+        "id": "1987-062",
+        "title": "Tulsa Professional Collection Services, Inc. v. Pope (1988)",
+        "term": "1987-10",
+        "decision": "1988-04-19",
+        "count": 3
+      },
+      {
+        "id": "1982-125",
+        "title": "Mennonite Board of Missions v. Adams (1983)",
+        "term": "1982-10",
+        "decision": "1983-06-22",
+        "count": 3
+      },
+      {
+        "id": "1981-089",
+        "title": "Greene v. Lindsey (1982)",
+        "term": "1981-10",
+        "decision": "1982-05-17",
+        "count": 2
+      },
+      {
+        "id": "1972-005",
+        "title": "Robinson v. Hanrahan (1972)",
+        "term": "1972-10",
+        "decision": "1972-10-24",
+        "count": 3
+      },
+      {
+        "id": "1955-076",
+        "title": "Covey v. Town of Somers (1956)",
+        "term": "1955-10",
+        "decision": "1956-05-07",
+        "count": 3
+      },
+      {
+        "id": "1949-066",
+        "title": "Mullane v. Central Hanover Bank & Trust Co. (1950)",
+        "term": "1949-10",
+        "decision": "1950-04-24",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-1477",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0220.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547220/usrep547220.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "5-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "minority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "none"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-01-17",
+        "title": "Oral Argument on January 17, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1477.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-01-17",
+        "title": "Oral Argument on January 17, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1477/20060117a_04-1477.delivery.mp3",
+        "length": "01:01:15.01",
+        "size": 14856208,
+        "bitrate": "32kbps",
+        "text_file": "04-1477/2006-01-17-oyez.json",
+        "advocates": [
+          {
+            "name": "MICHAEL T. KIRKPATRICK",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "CARTER G. PHILLIPS",
+            "title": "MR."
+          },
+          {
+            "name": "JAMES A. FELDMAN",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-04-26",
+        "title": "Opinion Announcement on April 26, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1477/20060426o_04-1477.delivery.mp3",
+        "length": "00:04:00.98",
+        "size": 1052647,
+        "bitrate": "35kbps",
+        "text_file": "04-1477/2006-04-26-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-081",
+    "title": "Randall v. Sorrell",
+    "number": "04-1528;04-1530;04-1697",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-1528.htm",
+    "argument": "2006-02-28",
+    "argument_day": "Tuesday, February 28, 2006",
+    "decision": "2006-06-26",
+    "decision_day": "Monday, June 26, 2006",
+    "citation": "548 U.S. 230",
+    "cites": [
+      {
+        "id": "2003-051",
+        "title": "Vieth v. Jubelirer (2004)",
+        "term": "2003-10",
+        "decision": "2004-04-28",
+        "count": 2
+      },
+      {
+        "id": "2003-006",
+        "title": "McConnell v. Federal Election Commission (2003)",
+        "term": "2003-10",
+        "decision": "2003-12-10",
+        "count": 6
+      },
+      {
+        "id": "2000-082",
+        "title": "Federal Election Commission v. Colorado Republican Federal Campaign Committee (2001)",
+        "term": "2000-10",
+        "decision": "2001-06-25",
+        "count": 6
+      },
+      {
+        "id": "1999-083",
+        "title": "California Democratic Party v. Jones (2000)",
+        "term": "1999-10",
+        "decision": "2000-06-26",
+        "count": 2
+      },
+      {
+        "id": "1999-081",
+        "title": "Dickerson v. United States (2000)",
+        "term": "1999-10",
+        "decision": "2000-06-26",
+        "count": 2
+      },
+      {
+        "id": "1999-026",
+        "title": "Nixon v. Shrink Missouri Government PAC (2000)",
+        "term": "1999-10",
+        "decision": "2000-01-24",
+        "count": 8
+      },
+      {
+        "id": "1995-086",
+        "title": "Colorado Republican Federal Campaign Committee v. Federal Election Commission (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-26",
+        "count": 8
+      },
+      {
+        "id": "1995-065",
+        "title": "United States v. International Business Machines Corp. (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-10",
+        "count": 2
+      },
+      {
+        "id": "1990-125",
+        "title": "Payne v. Tennessee (1991)",
+        "term": "1990-10",
+        "decision": "1991-06-27",
+        "count": 2
+      },
+      {
+        "id": "1986-015",
+        "title": "Federal Election Commission v. Massachusetts Citizens for Life, Inc. (1986)",
+        "term": "1986-10",
+        "decision": "1986-12-15",
+        "count": 3
+      },
+      {
+        "id": "1984-047",
+        "title": "Federal Election Commission v. National Conservative Political Action Committee (1985)",
+        "term": "1984-10",
+        "decision": "1985-03-18",
+        "count": 4
+      },
+      {
+        "id": "1983-107",
+        "title": "Arizona v. Rumsey (1984)",
+        "term": "1983-10",
+        "decision": "1984-05-29",
+        "count": 2
+      },
+      {
+        "id": "1983-085",
+        "title": "Bose Corp. v. Consumers Union of United States, Inc. (1984)",
+        "term": "1983-10",
+        "decision": "1984-04-30",
+        "count": 2
+      },
+      {
+        "id": "1980-139",
+        "title": "California Medical Association v. Federal Election Commission (1981)",
+        "term": "1980-10",
+        "decision": "1981-06-26",
+        "count": 3
+      },
+      {
+        "id": "1975-033",
+        "title": "Buckley v. Valeo (1976)",
+        "term": "1975-10",
+        "decision": "1976-01-30",
+        "count": 11
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-1528",
+    "decision_xml": "/courts/ussc/opinions/xml/us548/us548-0230.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548230/usrep548230.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/548bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: judgment of the Court",
+        "opinion": true
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-02-28",
+        "title": "Oral Argument on February 28, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1528.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-02-28",
+        "title": "Oral Argument on February 28, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1528/20060228a_04-1528.delivery.mp3",
+        "length": "01:01:41.58",
+        "size": 14956620,
+        "bitrate": "32kbps",
+        "text_file": "04-1528/2006-02-28-oyez.json",
+        "advocates": [
+          {
+            "name": "JAMES BOPP, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "WILLIAM H. SORRELL",
+            "title": "MR.,GENERAL"
+          },
+          {
+            "name": "BRENDA WRIGHT",
+            "title": "MS.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-26",
+        "title": "Opinion Announcement on June 26, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1528/20060626o_04-1528.delivery.mp3",
+        "length": "00:11:17.62",
+        "size": 2799703,
+        "bitrate": "33kbps",
+        "text_file": "04-1528/2006-06-26-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-063",
+    "title": "House v. Bell",
+    "number": "04-8990",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-8990.htm",
+    "argument": "2006-01-11",
+    "argument_day": "Wednesday, January 11, 2006",
+    "decision": "2006-06-12",
+    "decision_day": "Monday, June 12, 2006",
+    "citation": "547 U.S. 518",
+    "oyez_url": "https://www.oyez.org/cases/2005/04-8990",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547518/usrep547518.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "5-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "none"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-01-11",
+        "title": "Oral Argument on January 11, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-8990.pdf",
+        "journal_ref": "2005.547",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-01-11",
+        "title": "Oral Argument on January 11, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-8990/20060111a_04-8990.delivery.mp3",
+        "length": "01:00:41.26",
+        "size": 14717086,
+        "bitrate": "32kbps",
+        "text_file": "04-8990/2006-01-11-oyez.json",
+        "journal_ref": "2005.547",
+        "advocates": [
+          {
+            "name": "STEPHEN M. KISSINGER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "JENNIFER L. SMITH",
+            "title": "MS.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-12",
+        "title": "Opinion Announcement on June 12, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-8990/20060612o_04-8990.delivery.mp3",
+        "length": "00:05:04.35",
+        "size": 1306815,
+        "bitrate": "34kbps",
+        "text_file": "04-8990/2006-06-12-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-071",
+    "title": "Samson v. California",
+    "number": "04-9728",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/04-9728.htm",
+    "argument": "2006-02-22",
+    "argument_day": "Wednesday, February 22, 2006",
+    "decision": "2006-06-19",
+    "decision_day": "Monday, June 19, 2006",
+    "citation": "547 U.S. 843",
+    "cites": [
+      {
+        "id": "2001-007",
+        "title": "United States v. Knights (2001)",
+        "term": "2001-10",
+        "decision": "2001-12-10",
+        "count": 5
+      },
+      {
+        "id": "2000-034",
+        "title": "Ferguson v. City of Charleston (2001)",
+        "term": "2000-10",
+        "decision": "2001-03-21",
+        "count": 2
+      },
+      {
+        "id": "1997-092",
+        "title": "Pennsylvania Board of Probation and Parole v. Scott (1998)",
+        "term": "1997-10",
+        "decision": "1998-06-22",
+        "count": 3
+      },
+      {
+        "id": "1986-164",
+        "title": "Griffin v. Wisconsin (1987)",
+        "term": "1986-10",
+        "decision": "1987-06-26",
+        "count": 4
+      },
+      {
+        "id": "1983-159",
+        "title": "Hudson v. Palmer (1984)",
+        "term": "1983-10",
+        "decision": "1984-07-03",
+        "count": 3
+      },
+      {
+        "id": "1975-182",
+        "title": "United States v. Martinez-Fuerte (1976)",
+        "term": "1975-10",
+        "decision": "1976-07-06",
+        "count": 2
+      },
+      {
+        "id": "1971-171",
+        "title": "Morrissey v. Brewer (1972)",
+        "term": "1971-10",
+        "decision": "1972-06-29",
+        "count": 5
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/04-9728",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0843.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547843/usrep547843.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts2",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-02-22",
+        "title": "Oral Argument on February 22, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-9728.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-02-22",
+        "title": "Oral Argument on February 22, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-9728/20060222a_04-9728.delivery.mp3",
+        "length": "01:01:33.95",
+        "size": 14934769,
+        "bitrate": "32kbps",
+        "text_file": "04-9728/2006-02-22-oyez.json",
+        "advocates": [
+          {
+            "name": "ROBERT A. LONG, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "RONALD E. NIVER",
+            "title": "MR."
+          },
+          {
+            "name": "JONATHAN L. MARCUS",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-19",
+        "title": "Opinion Announcement on June 19, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-9728/20060619o_04-9728.delivery.mp3",
+        "length": "00:04:22.64",
+        "size": 1139643,
+        "bitrate": "35kbps",
+        "text_file": "04-9728/2006-06-19-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-082",
+    "title": "Arlington Central School District Board of Education v. Murphy",
+    "number": "05-18",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-18.htm",
+    "argument": "2006-04-19",
+    "argument_day": "Wednesday, April 19, 2006",
+    "decision": "2006-06-26",
+    "decision_day": "Monday, June 26, 2006",
+    "citation": "548 U.S. 291",
+    "cites": [
+      {
+        "id": "1999-066",
+        "title": "Hartford Underwriters Insurance Company v. Union Planters Bank, N.A. (2000)",
+        "term": "1999-10",
+        "decision": "2000-05-30",
+        "count": 2
+      },
+      {
+        "id": "1990-044",
+        "title": "West Virginia University Hospitals, Inc. v. Casey (1991)",
+        "term": "1990-10",
+        "decision": "1991-03-19",
+        "count": 4
+      },
+      {
+        "id": "1986-124",
+        "title": "Crawford Fitting Company v. J. T. Gibbons, Inc. (1987)",
+        "term": "1986-10",
+        "decision": "1987-06-15",
+        "count": 4
+      },
+      {
+        "id": "1983-172",
+        "title": "Smith v. Robinson (1984)",
+        "term": "1983-10",
+        "decision": "1984-07-05",
+        "count": 2
+      },
+      {
+        "id": "1980-069",
+        "title": "Pennhurst State School and Hospital v. Halderman (1981)",
+        "term": "1980-10",
+        "decision": "1981-04-20",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/05-18",
+    "decision_xml": "/courts/ussc/opinions/xml/us548/us548-0291.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep548/usrep548291/usrep548291.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/548bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-04-19",
+        "title": "Oral Argument on April 19, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-18.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-04-19",
+        "title": "Oral Argument on April 19, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-18/20060419a_05-18.delivery.mp3",
+        "length": "00:57:31.51",
+        "size": 13953292,
+        "bitrate": "32kbps",
+        "text_file": "05-18/2006-04-19-oyez.json",
+        "advocates": [
+          {
+            "name": "RAYMOND G. KUNTZ",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "DAVID B. SALMONS",
+            "title": "MR."
+          },
+          {
+            "name": "DAVID C. VLADECK",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-26",
+        "title": "Opinion Announcement on June 26, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-18/20060626o_05-18.delivery.mp3",
+        "length": "00:03:16.86",
+        "size": 876333,
+        "bitrate": "36kbps",
+        "text_file": "05-18/2006-06-26-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-056",
+    "title": "eBay Inc. v. MercExchange, L.L.C.",
+    "number": "05-130",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-130.htm",
+    "argument": "2006-03-29",
+    "argument_day": "Wednesday, March 29, 2006",
+    "decision": "2006-05-15",
+    "decision_day": "Monday, May 15, 2006",
+    "citation": "547 U.S. 388",
+    "cites": [
+      {
+        "id": "1981-083",
+        "title": "Weinberger v. Romero-Barcelo (1982)",
+        "term": "1981-10",
+        "decision": "1982-04-27",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/05-130",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0388.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547388/usrep547388.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-03-29",
+        "title": "Oral Argument on March 29, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-130.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-03-29",
+        "title": "Oral Argument on March 29, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-130/20060329a_05-130.delivery.mp3",
+        "length": "00:59:23.60",
+        "size": 14407637,
+        "bitrate": "32kbps",
+        "text_file": "05-130/2006-03-29-oyez.json",
+        "advocates": [
+          {
+            "name": "CARTER G. PHILLIPS",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "JEFFREY P. MINEAR",
+            "title": "MR."
+          },
+          {
+            "name": "SETH P. WAXMAN",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-05-15",
+        "title": "Opinion Announcement on May 15, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-130/20060515o_05-130.delivery.mp3",
+        "length": "00:04:22.14",
+        "size": 1137342,
+        "bitrate": "35kbps",
+        "text_file": "05-130/2006-05-15-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-066",
+    "title": "Kircher v. Putnam Funds Trust",
+    "number": "05-409",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-409.htm",
+    "argument": "2006-04-24",
+    "argument_day": "Monday, April 24, 2006",
+    "decision": "2006-06-15",
+    "decision_day": "Thursday, June 15, 2006",
+    "citation": "547 U.S. 633",
+    "oyez_url": "https://www.oyez.org/cases/2005/05-409",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547633/usrep547633.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-04-24",
+        "title": "Oral Argument on April 24, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-409.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-04-24",
+        "title": "Oral Argument on April 24, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-409/20060424a_05-409.delivery.mp3",
+        "length": "01:00:47.11",
+        "size": 14741225,
+        "bitrate": "32kbps",
+        "text_file": "05-409/2006-04-24-oyez.json",
+        "advocates": [
+          {
+            "name": "DAVID C. FREDERICK",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "MARK A. PERRY",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-15",
+        "title": "Opinion Announcement on June 15, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-409/20060615o_05-409.delivery.mp3",
+        "length": "00:04:48.10",
+        "size": 1240861,
+        "bitrate": "34kbps",
+        "text_file": "05-409/2006-06-15-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-062",
+    "title": "Mohawk Industries, Inc. v. Williams",
+    "number": "05-465",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-465.htm",
+    "argument": "2006-04-26",
+    "argument_day": "Wednesday, April 26, 2006",
+    "decision": "2006-06-05",
+    "decision_day": "Monday, June 5, 2006",
+    "citation": "547 U.S. 516",
+    "oyez_url": "https://www.oyez.org/cases/2005/05-465",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0516.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547516/usrep547516.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-04-26",
+        "title": "Oral Argument on April 26, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-465.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-04-26",
+        "title": "Oral Argument on April 26, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-465/20060426a_05-465.delivery.mp3",
+        "length": "00:59:47.16",
+        "size": 14500995,
+        "bitrate": "32kbps",
+        "text_file": "05-465/2006-04-26-oyez.json",
+        "advocates": [
+          {
+            "name": "CARTER G. PHILLIPS",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "HOWARD W. FOSTER",
+            "title": "MR."
+          },
+          {
+            "name": "MALCOLM L. STEWART",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-06-05",
+        "title": "Opinion Announcement on June 5, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-465/20060605o_05-465.delivery.mp3",
+        "length": "00:00:55.22",
+        "size": 309172,
+        "bitrate": "45kbps",
+        "text_file": "05-465/2006-06-05-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2005-057",
+    "title": "Brigham City v. Stuart",
+    "number": "05-502",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/05-502.htm",
+    "argument": "2006-04-24",
+    "argument_day": "Monday, April 24, 2006",
+    "decision": "2006-05-22",
+    "decision_day": "Monday, May 22, 2006",
+    "citation": "547 U.S. 398",
+    "cites": [
+      {
+        "id": "2000-005",
+        "title": "City of Indianapolis v. Edmond (2000)",
+        "term": "2000-10",
+        "decision": "2000-11-28",
+        "count": 2
+      },
+      {
+        "id": "1999-046",
+        "title": "Bond v. United States (2000)",
+        "term": "1999-10",
+        "decision": "2000-04-17",
+        "count": 2
+      },
+      {
+        "id": "1989-063",
+        "title": "Florida v. Wells (1990)",
+        "term": "1989-10",
+        "decision": "1990-04-18",
+        "count": 2
+      },
+      {
+        "id": "1983-094",
+        "title": "Welsh v. Wisconsin (1984)",
+        "term": "1983-10",
+        "decision": "1984-05-15",
+        "count": 2
+      },
+      {
+        "id": "1977-123",
+        "title": "Mincey v. Arizona (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-21",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2005/05-502",
+    "decision_xml": "/courts/ussc/opinions/xml/us547/us547-0398.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep547/usrep547398/usrep547398.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts2",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: jurisdictional dissent"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2006-04-24",
+        "title": "Oral Argument on April 24, 2006",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-502.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2006-04-24",
+        "title": "Oral Argument on April 24, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-502/20060424a_05-502.delivery.mp3",
+        "length": "00:55:14.49",
+        "size": 13405104,
+        "bitrate": "32kbps",
+        "text_file": "05-502/2006-04-24-oyez.json",
+        "advocates": [
+          {
+            "name": "JEFFREY S. GRAY",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "PAUL J. MCNULTY",
+            "title": "MR.,GENERAL"
+          },
+          {
+            "name": "MICHAEL P. STUDEBAKER",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2006-05-22",
+        "title": "Opinion Announcement on May 22, 2006",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-502/20060522o_05-502.delivery.mp3",
+        "length": "00:04:10.80",
+        "size": 1091662,
+        "bitrate": "35kbps",
+        "text_file": "05-502/2006-05-22-oyez.json",
+        "aligned": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "1976-174",
+    "title": "Bates v. State Bar of Arizona",
+    "tags": [
+      "Noteworthy",
+      "1st Amendment: Speech",
+      "Historical Briefs",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Schwartz"
+    ],
+    "number": "76-316",
+    "files": true,
+    "references": true,
+    "argument": "1977-01-18",
+    "argument_day": "Tuesday, January 18, 1977",
+    "decision": "1977-06-27",
+    "decision_day": "Monday, June 27, 1977",
+    "citation": "433 U.S. 350",
+    "cites": [
+      {
+        "id": "1975-183",
+        "title": "Cantor v. Detroit Edison Company (1976)",
+        "term": "1975-10",
+        "decision": "1976-07-06",
+        "count": 14
+      },
+      {
+        "id": "1975-098",
+        "title": "Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc. (1976)",
+        "term": "1975-10",
+        "decision": "1976-05-24",
+        "count": 15
+      },
+      {
+        "id": "1974-148",
+        "title": "Faretta v. California (1975)",
+        "term": "1974-10",
+        "decision": "1975-06-30",
+        "count": 3
+      },
+      {
+        "id": "1974-116",
+        "title": "Goldfarb v. Virginia State Bar (1975)",
+        "term": "1974-10",
+        "decision": "1975-06-16",
+        "count": 12
+      },
+      {
+        "id": "1974-118",
+        "title": "Bigelow v. Virginia (1975)",
+        "term": "1974-10",
+        "decision": "1975-06-16",
+        "count": 9
+      },
+      {
+        "id": "1972-178",
+        "title": "Broadrick v. Oklahoma (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-25",
+        "count": 2
+      },
+      {
+        "id": "1972-168",
+        "title": "Pittsburgh Press Company v. Pittsburgh Commission on Human Relations (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-21",
+        "count": 2
+      },
+      {
+        "id": "1968-128",
+        "title": "National Labor Relations Board v. Gissel Packing Company, Inc. (1969)",
+        "term": "1968-10",
+        "decision": "1969-06-16",
+        "count": 2
+      },
+      {
+        "id": "1962-151",
+        "title": "Head v. New Mexico Board of Examiners in Optometry (1963)",
+        "term": "1962-10",
+        "decision": "1963-06-17",
+        "count": 3
+      },
+      {
+        "id": "1962-032",
+        "title": "National Association for the Advancement of Colored People v. Button (1963)",
+        "term": "1962-10",
+        "decision": "1963-01-14",
+        "count": 2
+      },
+      {
+        "id": "1960-082",
+        "title": "Cohen v. Hurley (1961)",
+        "term": "1960-10",
+        "decision": "1961-04-24",
+        "count": 2
+      },
+      {
+        "id": "1954-046",
+        "title": "Williamson v. Lee Optical of Okla., Inc. (1955)",
+        "term": "1954-10",
+        "decision": "1955-03-28",
+        "count": 2
+      },
+      {
+        "id": "1942-087",
+        "title": "Parker v. Brown (1943)",
+        "term": "1942-10",
+        "decision": "1943-01-04",
+        "count": 12
+      },
+      {
+        "id": "1941-137",
+        "title": "Valentine v. Chrestensen (1942)",
+        "term": "1941-10",
+        "decision": "1942-04-13",
+        "count": 3
+      },
+      {
+        "id": "1934-167",
+        "title": "Semler v. Oregon Board of Dental Examiners (1935)",
+        "term": "1934-10",
+        "decision": "1935-04-01",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1976/76-316",
+    "decision_xml": "/courts/ussc/opinions/xml/us433/us433-0350.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep433/usrep433350/usrep433350.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-433_PDFA.pdf",
+    "result": "affirmed and reversed (or vacated) in part; petitioning party received a favorable disposition",
+    "bench": "burger6",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "minority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1977-01-18",
+        "title": "Oral Argument on January 18, 1977",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1976/76-316_01-18-1977.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1977-01-18",
+        "title": "Oral Argument on January 18, 1977",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1976/76-316/19770118a_76-316.delivery.mp3",
+        "length": "01:42:09.06",
+        "size": 24620680,
+        "bitrate": "32kbps",
+        "text_file": "76-316/1977-01-18-oyez.json",
+        "advocates": [
+          {
+            "name": "WILLIAM C. CANBY, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "DANIEL M. FRIEDMAN",
+            "title": "MR."
+          },
+          {
+            "name": "JOHN P. FRANK",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "1977-06-27",
+        "title": "Opinion Announcement on June 27, 1977",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1976/76-316/19770627o_76-316.delivery.mp3",
+        "length": "00:05:21.52",
+        "size": 1386758,
+        "bitrate": "35kbps",
+        "text_file": "76-316/1977-06-27-oyez.json",
+        "aligned": true
+      }
+    ]
+  }
+]

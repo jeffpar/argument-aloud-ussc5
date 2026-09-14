@@ -1,0 +1,595 @@
+[
+  {
+    "id": "2011-010",
+    "title": "Pacific Operators Offshore, LLP v. Valladolid",
+    "number": "10-507",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/10-507.htm",
+    "argument": "2011-10-11",
+    "argument_day": "Tuesday, October 11, 2011",
+    "decision": "2012-01-11",
+    "decision_day": "Wednesday, January 11, 2012",
+    "citation": "565 U.S. 207",
+    "oyez_url": "https://www.oyez.org/cases/2011/10-507",
+    "decision_xml": "/courts/ussc/opinions/xml/us565/us565-0207.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep565/usrep565207/usrep565207.pdf",
+    "decision_gov": "https://web.archive.org/web/20170510063129/https://www.supremecourt.gov/opinions/11pdf/10-507.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/565BV.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts4",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      },
+      {
+        "name": "ELENA KAGAN",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2011-10-11",
+        "title": "Oral Argument on October 11, 2011",
+        "audio_url": "https://www.supremecourt.gov/media/audio/mp3files/10-507.mp3",
+        "length": "01:01:10.58",
+        "size": 29373523,
+        "bitrate": "64kbps",
+        "transcript_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/10-507.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2011-10-11",
+        "title": "Oral Argument on October 11, 2011",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-507/20111011a_10-507.delivery.mp3",
+        "length": "01:01:27.92",
+        "size": 14781055,
+        "bitrate": "32kbps",
+        "text_file": "10-507/2011-10-11-oyez.json",
+        "advocates": [
+          {
+            "name": "PAUL D. CLEMENT",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "JOSEPH R. PALMORE",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "DAVID C. FREDERICK",
+            "title": "MR.",
+            "role": "petitioner*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-01-11",
+        "title": "Opinion Announcement on January 11, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-507/20120111o_10-507.delivery.mp3",
+        "length": "00:04:09.60",
+        "size": 1104896,
+        "bitrate": "35kbps",
+        "text_file": "10-507/2012-01-11-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2011-047",
+    "title": "Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk A/S",
+    "number": "10-844",
+    "files": true,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/10-844.htm",
+    "argument": "2011-12-05",
+    "argument_day": "Monday, December 5, 2011",
+    "decision": "2012-04-17",
+    "decision_day": "Tuesday, April 17, 2012",
+    "citation": "566 U.S. 399",
+    "oyez_url": "https://www.oyez.org/cases/2011/10-844",
+    "decision_xml": "/courts/ussc/opinions/xml/us566/us566-0399.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep566/usrep566399/usrep566399.pdf",
+    "decision_gov": "https://web.archive.org/web/20170510063129/https://www.supremecourt.gov/opinions/11pdf/10-844.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/566BV.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts4",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ELENA KAGAN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2011-12-05",
+        "title": "Oral Argument on December 5, 2011",
+        "audio_url": "https://www.supremecourt.gov/media/audio/mp3files/10-844.mp3",
+        "length": "01:01:07.14",
+        "size": 29345326,
+        "bitrate": "64kbps",
+        "transcript_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/10-844.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2011-12-05",
+        "title": "Oral Argument on December 5, 2011",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-844/20111205a_10-844.delivery.mp3",
+        "length": "01:01:24.47",
+        "size": 14843340,
+        "bitrate": "32kbps",
+        "text_file": "10-844/2011-12-05-oyez.json",
+        "advocates": [
+          {
+            "name": "JAMES F. HURST",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "BENJAMIN J. HORWICH",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "MARK A. PERRY",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-04-17",
+        "title": "Opinion Announcement on April 17, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-844/20120417o_10-844.delivery.mp3",
+        "length": "00:07:56.50",
+        "size": 2012494,
+        "bitrate": "34kbps",
+        "text_file": "10-844/2012-04-17-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2011-006",
+    "title": "Minneci v. Pollard",
+    "number": "10-1104",
+    "files": true,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/10-1104.htm",
+    "argument": "2011-11-01",
+    "argument_day": "Tuesday, November 1, 2011",
+    "decision": "2012-01-10",
+    "decision_day": "Tuesday, January 10, 2012",
+    "citation": "565 U.S. 118",
+    "oyez_url": "https://www.oyez.org/cases/2011/10-1104",
+    "decision_xml": "/courts/ussc/opinions/xml/us565/us565-0118.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep565/usrep565118/usrep565118.pdf",
+    "decision_gov": "https://web.archive.org/web/20170510063129/https://www.supremecourt.gov/opinions/11pdf/10-1104.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/565BV.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "roberts4",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      },
+      {
+        "name": "ELENA KAGAN",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2011-11-01",
+        "title": "Oral Argument on November 1, 2011",
+        "audio_url": "https://www.supremecourt.gov/media/audio/mp3files/10-1104.mp3",
+        "length": "00:55:57.43",
+        "size": 26867650,
+        "bitrate": "64kbps",
+        "transcript_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/10-1104.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2011-11-01",
+        "title": "Oral Argument on November 1, 2011",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1104/20111101a_10-1104.delivery.mp3",
+        "length": "00:56:13.30",
+        "size": 13598657,
+        "bitrate": "32kbps",
+        "text_file": "10-1104/2011-11-01-oyez.json",
+        "advocates": [
+          {
+            "name": "JONATHAN S. FRANKLIN",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "PRATIK A. SHAH",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "JOHN F. PREIS",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-01-10",
+        "title": "Opinion Announcement on January 10, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1104/20120110o_10-1104.delivery.mp3",
+        "length": "00:03:18.71",
+        "size": 900326,
+        "bitrate": "36kbps",
+        "text_file": "10-1104/2012-01-10-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2011-070",
+    "title": "Knox v. Service Employees",
+    "number": "10-1121",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/10-1121.htm",
+    "argument": "2012-01-10",
+    "argument_day": "Tuesday, January 10, 2012",
+    "decision": "2012-06-21",
+    "decision_day": "Thursday, June 21, 2012",
+    "citation": "567 U.S. 298",
+    "oyez_url": "https://www.oyez.org/cases/2011/10-1121",
+    "decision_xml": "/courts/ussc/opinions/xml/us567/us567-0298.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep567/usrep567298/usrep567298.pdf",
+    "decision_gov": "https://web.archive.org/web/20170510063129/https://www.supremecourt.gov/opinions/11pdf/10-1121c4d6.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/567BV.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts4",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "ELENA KAGAN",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2012-01-10",
+        "title": "Oral Argument on January 10, 2012",
+        "audio_url": "https://www.supremecourt.gov/media/audio/mp3files/10-1121.mp3",
+        "length": "01:01:22.51",
+        "size": 29467787,
+        "bitrate": "64kbps",
+        "transcript_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/10-1121.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2012-01-10",
+        "title": "Oral Argument on January 10, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1121/20120110a_10-1121.delivery.mp3",
+        "length": "01:01:39.91",
+        "size": 14905093,
+        "bitrate": "32kbps",
+        "text_file": "10-1121/2012-01-10-oyez.json",
+        "advocates": [
+          {
+            "name": "WILLIAM J. YOUNG",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "JEREMIAH A. COLLINS",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-06-21",
+        "title": "Opinion Announcement on June 21, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1121/20120621o_10-1121_part1.delivery.mp3",
+        "length": "00:08:22.13",
+        "size": 2113975,
+        "bitrate": "34kbps",
+        "text_file": "10-1121/2012-06-21-oyez-1.json",
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-06-21",
+        "title": "Oral Announcement by Justice Breyer on June 21, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1121/20120621o_10-1121_part2.delivery.mp3",
+        "length": "00:05:30.92",
+        "size": 1429149,
+        "bitrate": "35kbps",
+        "text_file": "10-1121/2012-06-21-oyez-2.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2011-067",
+    "title": "Christopher v. SmithKline Beecham Corp.",
+    "number": "11-204",
+    "files": true,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/11-204.htm",
+    "argument": "2012-04-16",
+    "argument_day": "Monday, April 16, 2012",
+    "decision": "2012-06-18",
+    "decision_day": "Monday, June 18, 2012",
+    "citation": "567 U.S. 142",
+    "oyez_url": "https://www.oyez.org/cases/2011/11-204",
+    "decision_xml": "/courts/ussc/opinions/xml/us567/us567-0142.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep567/usrep567142/usrep567142.pdf",
+    "decision_gov": "https://web.archive.org/web/20170510063129/https://www.supremecourt.gov/opinions/11pdf/11-204.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/567BV.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "roberts4",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "minority"
+      },
+      {
+        "name": "ELENA KAGAN",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2012-04-16",
+        "title": "Oral Argument on April 16, 2012",
+        "audio_url": "https://www.supremecourt.gov/media/audio/mp3files/11-204.mp3",
+        "length": "01:02:53.98",
+        "size": 30199423,
+        "bitrate": "64kbps",
+        "transcript_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/11-204.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2012-04-16",
+        "title": "Oral Argument on April 16, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/11-204/20120416a_11-204.delivery.mp3",
+        "length": "01:03:11.80",
+        "size": 15275167,
+        "bitrate": "32kbps",
+        "text_file": "11-204/2012-04-16-oyez.json",
+        "advocates": [
+          {
+            "name": "THOMAS C. GOLDSTEIN",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "MALCOLM L. STEWART",
+            "title": "MR."
+          },
+          {
+            "name": "PAUL D. CLEMENT",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2012-06-18",
+        "title": "Opinion Announcement on June 18, 2012",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/11-204/20120618o_11-204.delivery.mp3",
+        "length": "00:04:55.42",
+        "size": 1290219,
+        "bitrate": "35kbps",
+        "text_file": "11-204/2012-06-18-oyez.json",
+        "aligned": true
+      }
+    ]
+  }
+]

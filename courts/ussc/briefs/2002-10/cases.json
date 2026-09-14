@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "2002-021",
+    "title": "Scheidler v. National Organization for Women, Inc.",
+    "number": "01-1118;01-1119",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/01-1118.htm",
+    "argument": "2002-12-04",
+    "argument_day": "Wednesday, December 4, 2002",
+    "decision": "2003-02-26",
+    "decision_day": "Wednesday, February 26, 2003",
+    "citation": "537 U.S. 393",
+    "cites": [
+      {
+        "id": "1989-086",
+        "title": "Taylor v. United States (1990)",
+        "term": "1989-10",
+        "decision": "1990-05-29",
+        "count": 2
+      },
+      {
+        "id": "1987-004",
+        "title": "Carpenter v. United States (1987)",
+        "term": "1987-10",
+        "decision": "1987-11-16",
+        "count": 2
+      },
+      {
+        "id": "1986-150",
+        "title": "McNally v. United States (1987)",
+        "term": "1986-10",
+        "decision": "1987-06-24",
+        "count": 2
+      },
+      {
+        "id": "1977-057",
+        "title": "United States v. Culbert (1978)",
+        "term": "1977-10",
+        "decision": "1978-03-28",
+        "count": 3
+      },
+      {
+        "id": "1972-058",
+        "title": "United States v. Enmons (1973)",
+        "term": "1972-10",
+        "decision": "1973-02-22",
+        "count": 3
+      },
+      {
+        "id": "1968-026",
+        "title": "United States v. Nardello (1969)",
+        "term": "1968-10",
+        "decision": "1969-01-13",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/01-1118",
+    "decision_xml": "/courts/ussc/opinions/xml/us537/us537-0393.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep537/usrep537393/usrep537393.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/537bv.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "8-1",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2002-12-04",
+        "title": "Oral Argument on December 4, 2002",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/01-1118.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2002-12-04",
+        "title": "Oral Argument on December 4, 2002",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1118/20021204a_01-1118.delivery.mp3",
+        "length": "01:01:39.67",
+        "size": 14956324,
+        "bitrate": "32kbps",
+        "text_file": "01-1118/2002-12-04-oyez.json",
+        "advocates": [
+          {
+            "name": "ROY T. ENGLERT, JR.",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "THEODORE B. OLSON",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "FAY CLAYTON",
+            "title": "MS.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-02-26",
+        "title": "Opinion Announcement on February 26, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1118/20030226o_01-1118.delivery.mp3",
+        "length": "00:05:26.58",
+        "size": 1391709,
+        "bitrate": "34kbps",
+        "text_file": "01-1118/2003-02-26-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-025",
+    "title": "United States v. Navajo Nation",
+    "number": "01-1375",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/01-1375.htm",
+    "argument": "2002-12-02",
+    "argument_day": "Monday, December 2, 2002",
+    "decision": "2003-03-04",
+    "decision_day": "Tuesday, March 4, 2003",
+    "citation": "537 U.S. 488",
+    "cites": [
+      {
+        "id": "1982-140",
+        "title": "United States v. Mitchell (1983)",
+        "term": "1982-10",
+        "decision": "1983-06-27",
+        "count": 4
+      },
+      {
+        "id": "1979-065",
+        "title": "United States v. Mitchell (1980)",
+        "term": "1979-10",
+        "decision": "1980-04-15",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/01-1375",
+    "decision_xml": "/courts/ussc/opinions/xml/us537/us537-0488.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep537/usrep537488/usrep537488.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/537bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "minority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2002-12-02",
+        "title": "Oral Argument on December 2, 2002",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/01-1375.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2002-12-02",
+        "title": "Oral Argument on December 2, 2002",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1375/20021202a_01-1375.delivery.mp3",
+        "length": "01:01:34.84",
+        "size": 14928997,
+        "bitrate": "32kbps",
+        "text_file": "01-1375/2002-12-02-oyez.json",
+        "advocates": [
+          {
+            "name": "EDWIN S. KNEEDLER",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "PAUL E. FRYE",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-03-04",
+        "title": "Opinion Announcement on March 4, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1375/20030304o_01-1375.delivery.mp3",
+        "length": "00:07:39.05",
+        "size": 1921533,
+        "bitrate": "33kbps",
+        "text_file": "01-1375/2003-03-04-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-037",
+    "title": "Archer v. Warner",
+    "number": "01-1418",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/01-1418.htm",
+    "argument": "2003-01-13",
+    "argument_day": "Monday, January 13, 2003",
+    "decision": "2003-03-31",
+    "decision_day": "Monday, March 31, 2003",
+    "citation": "538 U.S. 314",
+    "cites": [
+      {
+        "id": "1997-044",
+        "title": "Cohen v. de la Cruz (1998)",
+        "term": "1997-10",
+        "decision": "1998-03-24",
+        "count": 2
+      },
+      {
+        "id": "1978-107",
+        "title": "Brown v. Felsen (1979)",
+        "term": "1978-10",
+        "decision": "1979-06-04",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/01-1418",
+    "decision_xml": "/courts/ussc/opinions/xml/us538/us538-0314.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538314/usrep538314.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/538bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2003-01-13",
+        "title": "Oral Argument on January 13, 2003",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/01-1418.pdf",
+        "text_file": "01-1418/2003-01-13.json",
+        "journal_ref": "2002.539",
+        "advocates": [
+          {
+            "name": "CRAIG G. GOLDBLATT",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "LISA S. BLATT",
+            "title": "MS."
+          },
+          {
+            "name": "DONALD R. AYER",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ]
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2003-01-13",
+        "title": "Oral Argument on January 13, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1418/20030113a_01-1418.delivery.mp3",
+        "length": "01:01:29.33",
+        "size": 14909588,
+        "bitrate": "32kbps",
+        "text_file": "01-1418/2003-01-13-oyez.json",
+        "journal_ref": "2002.539",
+        "advocates": [
+          {
+            "name": "CRAIG G. GOLDBLATT",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "LISA S. BLATT",
+            "title": "MS."
+          },
+          {
+            "name": "DONALD B. AYER",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-03-31",
+        "title": "Opinion Announcement on March 31, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1418/20030331o_01-1418.delivery.mp3",
+        "length": "00:03:05.86",
+        "size": 828601,
+        "bitrate": "36kbps",
+        "text_file": "01-1418/2003-03-31-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-058",
+    "title": "Chavez v. Martinez",
+    "number": "01-1444",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/01-1444.htm",
+    "argument": "2002-12-04",
+    "argument_day": "Wednesday, December 4, 2002",
+    "decision": "2003-05-27",
+    "decision_day": "Tuesday, May 27, 2003",
+    "citation": "538 U.S. 760",
+    "cites": [
+      {
+        "id": "2001-058",
+        "title": "McKune v. Lile (2002)",
+        "term": "2001-10",
+        "decision": "2002-06-10",
+        "count": 2
+      },
+      {
+        "id": "2000-075",
+        "title": "Saucier v. Katz (2001)",
+        "term": "2000-10",
+        "decision": "2001-06-18",
+        "count": 3
+      },
+      {
+        "id": "1999-081",
+        "title": "Dickerson v. United States (2000)",
+        "term": "1999-10",
+        "decision": "2000-06-26",
+        "count": 3
+      },
+      {
+        "id": "1997-071",
+        "title": "County of Sacramento v. Lewis (1998)",
+        "term": "1997-10",
+        "decision": "1998-05-26",
+        "count": 2
+      },
+      {
+        "id": "1989-039",
+        "title": "United States v. Verdugo-Urquidez (1990)",
+        "term": "1989-10",
+        "decision": "1990-02-28",
+        "count": 4
+      },
+      {
+        "id": "1984-041",
+        "title": "Oregon v. Elstad (1985)",
+        "term": "1984-10",
+        "decision": "1985-03-04",
+        "count": 6
+      },
+      {
+        "id": "1983-127",
+        "title": "New York v. Quarles (1984)",
+        "term": "1983-10",
+        "decision": "1984-06-12",
+        "count": 2
+      },
+      {
+        "id": "1977-123",
+        "title": "Mincey v. Arizona (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-21",
+        "count": 4
+      },
+      {
+        "id": "1976-130",
+        "title": "Lefkowitz v. Cunningham (1977)",
+        "term": "1976-10",
+        "decision": "1977-06-13",
+        "count": 3
+      },
+      {
+        "id": "1973-135",
+        "title": "Michigan v. Tucker (1974)",
+        "term": "1973-10",
+        "decision": "1974-06-10",
+        "count": 3
+      },
+      {
+        "id": "1973-013",
+        "title": "Lefkowitz v. Turley (1973)",
+        "term": "1973-10",
+        "decision": "1973-11-19",
+        "count": 3
+      },
+      {
+        "id": "1971-113",
+        "title": "Kastigar v. United States (1972)",
+        "term": "1971-10",
+        "decision": "1972-05-22",
+        "count": 5
+      },
+      {
+        "id": "1967-167",
+        "title": "Uniformed Sanitation Men Assn., Inc. v. Commissioner of Sanitation of City of New York (1968)",
+        "term": "1967-10",
+        "decision": "1968-06-10",
+        "count": 3
+      },
+      {
+        "id": "1965-122",
+        "title": "Miranda v. Arizona (1966)",
+        "term": "1965-10",
+        "decision": "1966-06-13",
+        "count": 4
+      },
+      {
+        "id": "1964-086",
+        "title": "Griffin v. California (1965)",
+        "term": "1964-10",
+        "decision": "1965-04-28",
+        "count": 2
+      },
+      {
+        "id": "1963-146",
+        "title": "Malloy v. Hogan (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 3
+      },
+      {
+        "id": "1953-077",
+        "title": "Leyra v. Denno (1954)",
+        "term": "1953-10",
+        "decision": "1954-06-01",
+        "count": 2
+      },
+      {
+        "id": "1951-019",
+        "title": "Rochin v. California (1952)",
+        "term": "1951-10",
+        "decision": "1952-01-02",
+        "count": 3
+      },
+      {
+        "id": "1943-129",
+        "title": "Ashcraft v. Tennessee (1944)",
+        "term": "1943-10",
+        "decision": "1944-05-01",
+        "count": 2
+      },
+      {
+        "id": "1937-036",
+        "title": "Palko v. Connecticut (1937)",
+        "term": "1937-10",
+        "decision": "1937-12-06",
+        "count": 2
+      },
+      {
+        "id": "1935-089",
+        "title": "Brown v. Mississippi (1936)",
+        "term": "1935-10",
+        "decision": "1936-02-17",
+        "count": 3
+      },
+      {
+        "id": "1924-054",
+        "title": "McCarthy v. Arndstein (1924)",
+        "term": "1924-10",
+        "decision": "1924-10-20",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/01-1444",
+    "decision_xml": "/courts/ussc/opinions/xml/us538/us538-0760.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538760/usrep538760.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/538bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: judgment of the Court",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2002-12-04",
+        "title": "Oral Argument on December 4, 2002",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/01-1444.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2002-12-04",
+        "title": "Oral Argument on December 4, 2002",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1444/20021204a_01-1444.delivery.mp3",
+        "length": "00:58:12.91",
+        "size": 14119441,
+        "bitrate": "32kbps",
+        "text_file": "01-1444/2002-12-04-oyez.json",
+        "advocates": [
+          {
+            "name": "LAWRENCE S. ROBBINS",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "PAUL D. CLEMENT",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "RICHARD S. PAZ",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-05-27",
+        "title": "Opinion Announcement on May 27, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/01-1444/20030527o_01-1444.delivery.mp3",
+        "length": "00:02:27.57",
+        "size": 675653,
+        "bitrate": "37kbps",
+        "text_file": "01-1444/2003-05-27-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-059",
+    "title": "National Park Hospitality Association v. Dept. of the Interior",
+    "number": "02-196",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/02-196.htm",
+    "argument": "2003-03-04",
+    "argument_day": "Tuesday, March 4, 2003",
+    "decision": "2003-05-27",
+    "decision_day": "Tuesday, May 27, 2003",
+    "citation": "538 U.S. 803",
+    "cites": [
+      {
+        "id": "1983-134",
+        "title": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc. (1984)",
+        "term": "1983-10",
+        "decision": "1984-06-25",
+        "count": 3
+      },
+      {
+        "id": "1977-140",
+        "title": "Duke Power Company v. Carolina Environmental Study Group, Inc. (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-26",
+        "count": 3
+      },
+      {
+        "id": "1966-103",
+        "title": "Toilet Goods Association, Inc. v. Gardner (1967)",
+        "term": "1966-10",
+        "decision": "1967-05-22",
+        "count": 3
+      },
+      {
+        "id": "1966-102",
+        "title": "Abbott Laboratories v. Gardner (1967)",
+        "term": "1966-10",
+        "decision": "1967-05-22",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/02-196",
+    "decision_xml": "/courts/ussc/opinions/xml/us538/us538-0803.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538803/usrep538803.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/538bv.pdf",
+    "result": "vacated and remanded; no favorable disposition for petitioning party apparent",
+    "bench": "rehnquist9",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "minority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2003-03-04",
+        "title": "Oral Argument on March 4, 2003",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/02-196.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2003-03-04",
+        "title": "Oral Argument on March 4, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-196/20030304a_02-196.delivery.mp3",
+        "length": "00:56:41.67",
+        "size": 13763942,
+        "bitrate": "32kbps",
+        "text_file": "02-196/2003-03-04-oyez.json",
+        "advocates": [
+          {
+            "name": "KENNETH S. GELLER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "JOHN P. ELWOOD",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-05-27",
+        "title": "Opinion Announcement on May 27, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-196/20030527o_02-196.delivery.mp3",
+        "length": "00:03:04.69",
+        "size": 824015,
+        "bitrate": "36kbps",
+        "text_file": "02-196/2003-05-27-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-064",
+    "title": "Entergy Louisiana, Inc. v. Louisiana Public Service Commission",
+    "number": "02-299",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/02-299.htm",
+    "argument": "2003-04-28",
+    "argument_day": "Monday, April 28, 2003",
+    "decision": "2003-06-02",
+    "decision_day": "Monday, June 2, 2003",
+    "citation": "539 U.S. 39",
+    "cites": [
+      {
+        "id": "1987-140",
+        "title": "Mississippi Power & Light Company v. Mississippi ex rel. Moore (1988)",
+        "term": "1987-10",
+        "decision": "1988-06-24",
+        "count": 3
+      },
+      {
+        "id": "1985-113",
+        "title": "Nantahala Power & Light Company v. Thornburg (1986)",
+        "term": "1985-10",
+        "decision": "1986-06-16",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/02-299",
+    "decision_xml": "/courts/ussc/opinions/xml/us539/us539-0039.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539039/usrep539039.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/539bv.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2003-04-28",
+        "title": "Oral Argument on April 28, 2003",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/02-299.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2003-04-28",
+        "title": "Oral Argument on April 28, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-299/20030428a_02-299.delivery.mp3",
+        "length": "00:55:46.52",
+        "size": 13532027,
+        "bitrate": "32kbps",
+        "text_file": "02-299/2003-04-28-oyez.json",
+        "advocates": [
+          {
+            "name": "DAVID W. CARPENTER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "AUSTIN C. SCHLICK",
+            "title": "MR."
+          },
+          {
+            "name": "MICHAEL R. FONTHAM",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-06-02",
+        "title": "Opinion Announcement on June 2, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-299/20030602o_02-299.delivery.mp3",
+        "length": "00:03:51.00",
+        "size": 1009319,
+        "bitrate": "35kbps",
+        "text_file": "02-299/2003-06-02-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-076",
+    "title": "United States v. American Library Assn., Inc.",
+    "number": "02-361",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/02-361.htm",
+    "argument": "2003-03-05",
+    "argument_day": "Wednesday, March 5, 2003",
+    "decision": "2003-06-23",
+    "decision_day": "Monday, June 23, 2003",
+    "citation": "539 U.S. 194",
+    "cites": [
+      {
+        "id": "2001-038",
+        "title": "Ashcroft v. Free Speech Coalition (2002)",
+        "term": "2001-10",
+        "decision": "2002-04-16",
+        "count": 2
+      },
+      {
+        "id": "2000-028",
+        "title": "Legal Services Corp. v. Velazquez (2001)",
+        "term": "2000-10",
+        "decision": "2001-02-28",
+        "count": 2
+      },
+      {
+        "id": "1999-063",
+        "title": "United States v. Playboy Entertainment Group, Inc. (2000)",
+        "term": "1999-10",
+        "decision": "2000-05-22",
+        "count": 2
+      },
+      {
+        "id": "1999-041",
+        "title": "Board of Regents , University of Wisconsin System v. Southworth (2000)",
+        "term": "1999-10",
+        "decision": "2000-03-22",
+        "count": 2
+      },
+      {
+        "id": "1997-097",
+        "title": "National Endowment for the Arts v. Finley (1998)",
+        "term": "1997-10",
+        "decision": "1998-06-25",
+        "count": 3
+      },
+      {
+        "id": "1997-065",
+        "title": "Arkansas Educational Television Commission v. Forbes (1998)",
+        "term": "1997-10",
+        "decision": "1998-05-18",
+        "count": 3
+      },
+      {
+        "id": "1996-094",
+        "title": "Reno v. ACLU (1997)",
+        "term": "1996-10",
+        "decision": "1997-06-26",
+        "count": 5
+      },
+      {
+        "id": "1995-090",
+        "title": "Denver Area Educational Telecommunications Consortium, Inc. v. Federal Communications Commission (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-28",
+        "count": 2
+      },
+      {
+        "id": "1995-088",
+        "title": "Board of County Commissioners, Wabaunsee County, Kansas v. Umbehr (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-28",
+        "count": 2
+      },
+      {
+        "id": "1994-091",
+        "title": "Rosenberger v. Rector and Visitors of the University of Virginia (1995)",
+        "term": "1994-10",
+        "decision": "1995-06-29",
+        "count": 5
+      },
+      {
+        "id": "1990-077",
+        "title": "Rust v. Sullivan (1991)",
+        "term": "1990-10",
+        "decision": "1991-05-23",
+        "count": 3
+      },
+      {
+        "id": "1989-120",
+        "title": "Rutan v. Republican Party of Illinois (1990)",
+        "term": "1989-10",
+        "decision": "1990-06-21",
+        "count": 2
+      },
+      {
+        "id": "1986-144",
+        "title": "South Dakota v. Dole (1987)",
+        "term": "1986-10",
+        "decision": "1987-06-23",
+        "count": 3
+      },
+      {
+        "id": "1984-168",
+        "title": "Cornelius v. NAACP Legal Defense and Educational Fund, Inc. (1985)",
+        "term": "1984-10",
+        "decision": "1985-07-02",
+        "count": 3
+      },
+      {
+        "id": "1982-082",
+        "title": "Regan v. Taxation With Representation of Washington (1983)",
+        "term": "1982-10",
+        "decision": "1983-05-23",
+        "count": 2
+      },
+      {
+        "id": "1981-143",
+        "title": "Board of Education, Island Trees Union Free School District No. 26 v. Pico by Pico (1982)",
+        "term": "1981-10",
+        "decision": "1982-06-25",
+        "count": 4
+      },
+      {
+        "id": "1979-148",
+        "title": "Harris v. McRae (1980)",
+        "term": "1979-10",
+        "decision": "1980-06-30",
+        "count": 2
+      },
+      {
+        "id": "1975-158",
+        "title": "Elrod v. Burns (1976)",
+        "term": "1975-10",
+        "decision": "1976-06-25",
+        "count": 2
+      },
+      {
+        "id": "1972-158",
+        "title": "Miller v. California (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-21",
+        "count": 2
+      },
+      {
+        "id": "1952-023",
+        "title": "Wieman v. Updegraff (1952)",
+        "term": "1952-10",
+        "decision": "1952-12-15",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/02-361",
+    "decision_xml": "/courts/ussc/opinions/xml/us539/us539-0194.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539194/usrep539194.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/539bv.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority",
+        "action": "wrote an opinion: judgment of the Court",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2003-03-05",
+        "title": "Oral Argument on March 5, 2003",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/02-361.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2003-03-05",
+        "title": "Oral Argument on March 5, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-361/20030305a_02-361.delivery.mp3",
+        "length": "01:01:20.24",
+        "size": 14876216,
+        "bitrate": "32kbps",
+        "text_file": "02-361/2003-03-05-oyez.json",
+        "advocates": [
+          {
+            "name": "THEODORE B. OLSON",
+            "title": "MR.,GENERAL",
+            "role": "petitioner*"
+          },
+          {
+            "name": "PAUL M. SMITH",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-06-23",
+        "title": "Opinion Announcement on June 23, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-361/20030623o_02-361.delivery.mp3",
+        "length": "00:03:12.81",
+        "size": 856596,
+        "bitrate": "36kbps",
+        "text_file": "02-361/2003-06-23-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2002-079",
+    "title": "American Insurance Ass'n v. Garamendi",
+    "number": "02-722",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/02-722.htm",
+    "argument": "2003-04-23",
+    "argument_day": "Wednesday, April 23, 2003",
+    "decision": "2003-06-23",
+    "decision_day": "Monday, June 23, 2003",
+    "citation": "539 U.S. 396",
+    "cites": [
+      {
+        "id": "1999-079",
+        "title": "Crosby v. National Foreign Trade Council (2000)",
+        "term": "1999-10",
+        "decision": "2000-06-19",
+        "count": 4
+      },
+      {
+        "id": "1993-079",
+        "title": "Barclay's Bank, PLC v. Franchise Tax Board of California (1994)",
+        "term": "1993-10",
+        "decision": "1994-06-20",
+        "count": 2
+      },
+      {
+        "id": "1992-092",
+        "title": "United States Department of Treasury v. Fabe (1993)",
+        "term": "1992-10",
+        "decision": "1993-06-11",
+        "count": 2
+      },
+      {
+        "id": "1980-152",
+        "title": "Dames & Moore v. Regan (1981)",
+        "term": "1980-10",
+        "decision": "1981-07-02",
+        "count": 4
+      },
+      {
+        "id": "1971-130",
+        "title": "First National City Bank v. Banco Nacional de Cuba (1972)",
+        "term": "1971-10",
+        "decision": "1972-06-07",
+        "count": 4
+      },
+      {
+        "id": "1967-051",
+        "title": "Zschernig v. Miller (1968)",
+        "term": "1967-10",
+        "decision": "1968-01-15",
+        "count": 2
+      },
+      {
+        "id": "1951-088",
+        "title": "Youngstown Sheet & Tube Co. v. Sawyer (1952)",
+        "term": "1951-10",
+        "decision": "1952-06-02",
+        "count": 2
+      },
+      {
+        "id": "1946-110",
+        "title": "Clark v. Allen (1947)",
+        "term": "1946-10",
+        "decision": "1947-06-09",
+        "count": 2
+      },
+      {
+        "id": "1941-042",
+        "title": "United States v. Pink (1942)",
+        "term": "1941-10",
+        "decision": "1942-02-02",
+        "count": 3
+      },
+      {
+        "id": "1940-064",
+        "title": "Hines v. Davidowitz (1941)",
+        "term": "1940-10",
+        "decision": "1941-01-20",
+        "count": 2
+      },
+      {
+        "id": "1936-118",
+        "title": "United States v. Belmont (1937)",
+        "term": "1936-10",
+        "decision": "1937-05-03",
+        "count": 3
+      },
+      {
+        "id": "1936-038",
+        "title": "United States v. Curtiss-Wright Export Corp. (1936)",
+        "term": "1936-10",
+        "decision": "1936-12-21",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2002/02-722",
+    "decision_xml": "/courts/ussc/opinions/xml/us539/us539-0396.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539396/usrep539396.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/539bv.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "rehnquist9",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID SOUTER",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2003-04-23",
+        "title": "Oral Argument on April 23, 2003",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2002/02-722.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2003-04-23",
+        "title": "Oral Argument on April 23, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-722/20030423a_02-722.delivery.mp3",
+        "length": "00:58:38.62",
+        "size": 14225489,
+        "bitrate": "32kbps",
+        "text_file": "02-722/2003-04-23-oyez.json",
+        "advocates": [
+          {
+            "name": "KENNETH S. GELLER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "EDWIN S. KNEEDLER",
+            "title": "MR."
+          },
+          {
+            "name": "FRANK KAPLAN",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-06-23",
+        "title": "Opinion Announcement on June 23, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-722/20030623o_02-722.delivery.mp3",
+        "length": "00:10:15.13",
+        "size": 2546016,
+        "bitrate": "33kbps",
+        "text_file": "02-722/2003-06-23-oyez.json",
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2003-06-23",
+        "title": "Oral Announcement by Justice Ginsburg on June 23, 2003",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2002/02-722/20030623o_02-722.delivery.mp3",
+        "length": "00:10:15.13",
+        "size": 2546016,
+        "bitrate": "33kbps",
+        "text_file": "02-722/2003-06-23-oyez.json",
+        "aligned": true,
+        "turn": 3
+      }
+    ]
+  }
+]

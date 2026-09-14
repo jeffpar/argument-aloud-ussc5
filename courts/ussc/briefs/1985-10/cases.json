@@ -1,0 +1,220 @@
+[
+  {
+    "id": "1985-143",
+    "title": "Davis v. Bandemer",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Equal Protection",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Stone",
+      "Curiae: Tribe"
+    ],
+    "number": "84-1244",
+    "files": true,
+    "references": true,
+    "argument": "1985-10-07",
+    "argument_day": "Monday, October 7, 1985",
+    "decision": "1986-06-30",
+    "decision_day": "Monday, June 30, 1986",
+    "citation": "478 U.S. 109",
+    "cites": [
+      {
+        "id": "1982-124",
+        "title": "Karcher v. Daggett (1983)",
+        "term": "1982-10",
+        "decision": "1983-06-22",
+        "count": 9
+      },
+      {
+        "id": "1981-167",
+        "title": "Rogers v. Lodge (1982)",
+        "term": "1981-10",
+        "decision": "1982-07-01",
+        "count": 8
+      },
+      {
+        "id": "1979-073",
+        "title": "City of Mobile v. Bolden (1980)",
+        "term": "1979-10",
+        "decision": "1980-04-22",
+        "count": 10
+      },
+      {
+        "id": "1976-059",
+        "title": "United Jewish Organizations of Williamsburgh, Inc. v. Carey (1977)",
+        "term": "1976-10",
+        "decision": "1977-03-01",
+        "count": 4
+      },
+      {
+        "id": "1972-153",
+        "title": "White v. Regester (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-18",
+        "count": 19
+      },
+      {
+        "id": "1972-152",
+        "title": "Gaffney v. Cummings (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-18",
+        "count": 29
+      },
+      {
+        "id": "1972-054",
+        "title": "Mahan v. Howell (1973)",
+        "term": "1972-10",
+        "decision": "1973-02-21",
+        "count": 2
+      },
+      {
+        "id": "1970-125",
+        "title": "Whitcomb v. Chavis (1971)",
+        "term": "1970-10",
+        "decision": "1971-06-07",
+        "count": 15
+      },
+      {
+        "id": "1968-076",
+        "title": "Kirkpatrick v. Preisler (1969)",
+        "term": "1968-10",
+        "decision": "1969-04-07",
+        "count": 4
+      },
+      {
+        "id": "1965-094",
+        "title": "Burns v. Richardson (1966)",
+        "term": "1965-10",
+        "decision": "1966-04-25",
+        "count": 3
+      },
+      {
+        "id": "1965-001",
+        "title": "Wmca, Inc. v. Lomenzo (1965)",
+        "term": "1965-10",
+        "decision": "1965-10-11",
+        "count": 2
+      },
+      {
+        "id": "1964-028",
+        "title": "Fortson v. Dorsey (1965)",
+        "term": "1964-10",
+        "decision": "1965-01-18",
+        "count": 3
+      },
+      {
+        "id": "1963-140",
+        "title": "Reynolds v. Sims (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 25
+      },
+      {
+        "id": "1961-051",
+        "title": "Baker v. Carr (1962)",
+        "term": "1961-10",
+        "decision": "1962-03-26",
+        "count": 24
+      },
+      {
+        "id": "1960-005",
+        "title": "Gomillion v. Lightfoot (1960)",
+        "term": "1960-10",
+        "decision": "1960-11-14",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1985/84-1244",
+    "decision_xml": "/courts/ussc/opinions/xml/us478/us478-0109.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep478/usrep478109/usrep478109.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-478_PDFA.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "burger7",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "minority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "SANDRA DAY O'CONNOR",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1985-10-07",
+        "title": "Oral Argument on October 7, 1985",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1985/84-1244_10-07-1985.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1985-10-07",
+        "title": "Oral Argument on October 7, 1985",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1985/84-1244/19851007a_84-1244.delivery.mp3",
+        "length": "01:00:50.56",
+        "size": 14751598,
+        "bitrate": "32kbps",
+        "text_file": "84-1244/1985-10-07-oyez.json",
+        "advocates": [
+          {
+            "name": "WILLIAM M. EVANS",
+            "title": "MR.",
+            "role": "appellant"
+          },
+          {
+            "name": "THEODORE R. BOEHM",
+            "title": "MR.",
+            "role": "appellee"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

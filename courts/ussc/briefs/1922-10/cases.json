@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1922-151",
+    "title": "Adkins v. Children's Hospital of District of Columbia",
+    "tags": [
+      "Noteworthy",
+      "No Legal Provision",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Rehnquist",
+      "Curiae: Schwartz",
+      "Curiae: Tribe"
+    ],
+    "number": "795",
+    "files": true,
+    "references": false,
+    "argument": "1923-03-14",
+    "argument_day": "Wednesday, March 14, 1923",
+    "decision": "1923-04-09",
+    "decision_day": "Monday, April 9, 1923",
+    "citation": "261 U.S. 525",
+    "cites": [
+      {
+        "id": "1916-130",
+        "title": "Bunting v. Oregon (1917)",
+        "term": "1916-10",
+        "decision": "1917-04-09",
+        "count": 9
+      },
+      {
+        "id": "1916-143",
+        "title": "Wilson v. New (1917)",
+        "term": "1916-10",
+        "decision": "1917-03-19",
+        "count": 2
+      },
+      {
+        "id": "1914-223",
+        "title": "Miller v. Wilson (1915)",
+        "term": "1914-10",
+        "decision": "1915-02-23",
+        "count": 3
+      },
+      {
+        "id": "1914-224",
+        "title": "Bosley v. McLaughlin (1915)",
+        "term": "1914-10",
+        "decision": "1915-02-23",
+        "count": 4
+      },
+      {
+        "id": "1914-242",
+        "title": "Coppage v. Kansas (1915)",
+        "term": "1914-10",
+        "decision": "1915-01-25",
+        "count": 2
+      },
+      {
+        "id": "1913-156",
+        "title": "German Alliance Insurance Co. v. Lewis (1914)",
+        "term": "1913-10",
+        "decision": "1914-04-20",
+        "count": 2
+      },
+      {
+        "id": "1913-194",
+        "title": "Riley v. Massachusetts (1914)",
+        "term": "1913-10",
+        "decision": "1914-03-23",
+        "count": 3
+      },
+      {
+        "id": "1908-049",
+        "title": "McLean v. Arkansas (1909)",
+        "term": "1908-10",
+        "decision": "1909-01-04",
+        "count": 3
+      },
+      {
+        "id": "1907-083",
+        "title": "Muller v. Oregon (1908)",
+        "term": "1907-10",
+        "decision": "1908-02-24",
+        "count": 12
+      },
+      {
+        "id": "1907-062",
+        "title": "Adair v. United States (1908)",
+        "term": "1907-10",
+        "decision": "1908-01-27",
+        "count": 2
+      },
+      {
+        "id": "1904-096",
+        "title": "Lochner v. New York (1905)",
+        "term": "1904-10",
+        "decision": "1905-04-17",
+        "count": 8
+      },
+      {
+        "id": "1902-159",
+        "title": "Patterson v. Bark Eudora (1903)",
+        "term": "1902-10",
+        "decision": "1903-06-01",
+        "count": 2
+      },
+      {
+        "id": "1901-002",
+        "title": "Knoxville Iron Co. v. Harbison (1901)",
+        "term": "1901-10",
+        "decision": "1901-10-21",
+        "count": 3
+      },
+      {
+        "id": "1897-087",
+        "title": "Holden v. Hardy (1898)",
+        "term": "1897-10",
+        "decision": "1898-02-28",
+        "count": 3
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us261/us261-0525.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep261/usrep261525/usrep261525.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-261_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "taft5",
+    "score": "5-3",
+    "votes": [
+      {
+        "name": "WILLIAM HOWARD TAFT",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "JOSEPH MCKENNA",
+        "side": "majority"
+      },
+      {
+        "name": "OLIVER HOLMES",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILLIS VAN DEVANTER",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES MCREYNOLDS",
+        "side": "majority"
+      },
+      {
+        "name": "LOUIS BRANDEIS",
+        "side": "none"
+      },
+      {
+        "name": "GEORGE SUTHERLAND",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "PIERCE BUTLER",
+        "side": "majority"
+      },
+      {
+        "name": "EDWARD SANFORD",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "scdb",
+        "type": "argument",
+        "date": "1923-03-14",
+        "title": "Oral Argument on March 14, 1923"
+      }
+    ]
+  }
+]

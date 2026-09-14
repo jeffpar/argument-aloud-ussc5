@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1927-006",
+    "title": "Gong Lum v. Rice",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Equal Protection"
+    ],
+    "number": "29",
+    "files": false,
+    "references": false,
+    "decision": "1927-11-21",
+    "decision_day": "Monday, November 21, 1927",
+    "citation": "275 U.S. 78",
+    "decision_xml": "/courts/ussc/opinions/xml/us275/us275-0078.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep275/usrep275078/usrep275078.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-275_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "taft7",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "WILLIAM HOWARD TAFT",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "OLIVER HOLMES",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIS VAN DEVANTER",
+        "side": "majority"
+      },
+      {
+        "name": "JAMES MCREYNOLDS",
+        "side": "majority"
+      },
+      {
+        "name": "LOUIS BRANDEIS",
+        "side": "majority"
+      },
+      {
+        "name": "GEORGE SUTHERLAND",
+        "side": "majority"
+      },
+      {
+        "name": "PIERCE BUTLER",
+        "side": "majority"
+      },
+      {
+        "name": "EDWARD SANFORD",
+        "side": "majority"
+      },
+      {
+        "name": "HARLAN STONE",
+        "side": "majority"
+      }
+    ]
+  }
+]

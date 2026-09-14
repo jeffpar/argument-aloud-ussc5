@@ -1,0 +1,259 @@
+[
+  {
+    "id": "1978-152",
+    "title": "Gannett Company, Inc. v. DePasquale",
+    "tags": [
+      "Noteworthy",
+      "6th Amendment: Other Provisions",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide"
+    ],
+    "number": "77-1301",
+    "files": true,
+    "references": true,
+    "argument": "1978-11-07",
+    "argument_day": "Tuesday, November 7, 1978",
+    "decision": "1979-07-02",
+    "decision_day": "Monday, July 2, 1979",
+    "citation": "443 U.S. 368",
+    "cites": [
+      {
+        "id": "1977-138",
+        "title": "Houchins v. KQED Inc. (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-26",
+        "count": 6
+      },
+      {
+        "id": "1977-066",
+        "title": "Nixon v. Warner Communications, Inc. (1978)",
+        "term": "1977-10",
+        "decision": "1978-04-18",
+        "count": 2
+      },
+      {
+        "id": "1975-166",
+        "title": "Nebraska Press Association v. Stuart (1976)",
+        "term": "1975-10",
+        "decision": "1976-06-30",
+        "count": 16
+      },
+      {
+        "id": "1974-148",
+        "title": "Faretta v. California (1975)",
+        "term": "1974-10",
+        "decision": "1975-06-30",
+        "count": 7
+      },
+      {
+        "id": "1974-117",
+        "title": "Murphy v. Florida (1975)",
+        "term": "1974-10",
+        "decision": "1975-06-16",
+        "count": 4
+      },
+      {
+        "id": "1974-059",
+        "title": "Cox Broadcasting Corp. v. Cohn (1975)",
+        "term": "1974-10",
+        "decision": "1975-03-03",
+        "count": 2
+      },
+      {
+        "id": "1973-151",
+        "title": "Pell v. Procunier (1974)",
+        "term": "1973-10",
+        "decision": "1974-06-24",
+        "count": 3
+      },
+      {
+        "id": "1973-152",
+        "title": "Saxbe v. Washington Post Company (1974)",
+        "term": "1973-10",
+        "decision": "1974-06-24",
+        "count": 6
+      },
+      {
+        "id": "1971-176",
+        "title": "Branzburg v. Hayes (1972)",
+        "term": "1971-10",
+        "decision": "1972-06-29",
+        "count": 3
+      },
+      {
+        "id": "1971-156",
+        "title": "Barker v. Wingo (1972)",
+        "term": "1971-10",
+        "decision": "1972-06-22",
+        "count": 3
+      },
+      {
+        "id": "1965-117",
+        "title": "Sheppard v. Maxwell (1966)",
+        "term": "1965-10",
+        "decision": "1966-06-06",
+        "count": 13
+      },
+      {
+        "id": "1964-122",
+        "title": "Estes v. Texas (1965)",
+        "term": "1964-10",
+        "decision": "1965-06-07",
+        "count": 16
+      },
+      {
+        "id": "1964-044",
+        "title": "Singer v. United States (1965)",
+        "term": "1964-10",
+        "decision": "1965-03-01",
+        "count": 10
+      },
+      {
+        "id": "1963-162",
+        "title": "Jackson v. Denno (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-22",
+        "count": 6
+      },
+      {
+        "id": "1962-134",
+        "title": "Rideau v. Louisiana (1963)",
+        "term": "1962-10",
+        "decision": "1963-06-03",
+        "count": 2
+      },
+      {
+        "id": "1961-065",
+        "title": "Beck v. Washington (1962)",
+        "term": "1961-10",
+        "decision": "1962-05-14",
+        "count": 3
+      },
+      {
+        "id": "1960-112",
+        "title": "Irvin v. Dowd (1961)",
+        "term": "1960-10",
+        "decision": "1961-06-05",
+        "count": 2
+      },
+      {
+        "id": "1951-067",
+        "title": "Stroble v. California (1952)",
+        "term": "1951-10",
+        "decision": "1952-04-07",
+        "count": 2
+      },
+      {
+        "id": "1947-048",
+        "title": "In re Oliver (1948)",
+        "term": "1947-10",
+        "decision": "1948-03-08",
+        "count": 4
+      },
+      {
+        "id": "1941-004",
+        "title": "Bridges v. California (1941)",
+        "term": "1941-10",
+        "decision": "1941-12-08",
+        "count": 2
+      },
+      {
+        "id": "1929-043",
+        "title": "Patton v. United States (1930)",
+        "term": "1929-10",
+        "decision": "1930-04-14",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1978/77-1301",
+    "decision_xml": "/courts/ussc/opinions/xml/us443/us443-0368.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep443/usrep443368/usrep443368.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-443_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "burger6",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "minority"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "minority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "minority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1978-11-07",
+        "title": "Oral Argument on November 7, 1978",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1978/77-1301_11-07-1978.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1978-11-07",
+        "title": "Oral Argument on November 7, 1978",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1978/77-1301/19781107a_77-1301.delivery.mp3",
+        "length": "01:04:39.16",
+        "size": 15621078,
+        "bitrate": "32kbps",
+        "text_file": "77-1301/1978-11-07-oyez.json",
+        "advocates": [
+          {
+            "name": "ROBERT C. BERNIUS",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "BERNARD KOBROFF",
+            "title": "MR.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1868-072",
+    "title": "Ex parte McCardle",
+    "tags": [
+      "Noteworthy",
+      "Article III, Section 2: Extent Of Judicial Power",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Schwartz",
+      "Curiae: Stone"
+    ],
+    "number": "223",
+    "files": true,
+    "references": false,
+    "argument": "1868-03-02,1868-03-03,1868-03-04,1868-03-05,1868-03-09,1869-03-19",
+    "argument_day": "Monday, March 2, 1868; Tuesday, March 3, 1868; Wednesday, March 4, 1868; Thursday, March 5, 1868; Monday, March 9, 1868; Friday, March 19, 1869",
+    "decision": "1869-04-12",
+    "decision_day": "Monday, April 12, 1869",
+    "citation": "74 U.S. 506",
+    "decision_xml": "/courts/ussc/opinions/xml/us074/us074-0506.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep074/usrep074506/usrep074506.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-74_PDFA.pdf",
+    "result": "dismissed",
+    "bench": "chase3",
+    "score": "8-0",
+    "votes": [
+      {
+        "name": "SALMON CHASE",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "SAMUEL NELSON",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT GRIER",
+        "side": "majority"
+      },
+      {
+        "name": "NATHAN CLIFFORD",
+        "side": "majority"
+      },
+      {
+        "name": "NOAH SWAYNE",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL MILLER",
+        "side": "majority"
+      },
+      {
+        "name": "DAVID DAVIS",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN FIELD",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1868-03-02",
+        "title": "Oral Argument on March 2, 1868"
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1868-03-03",
+        "title": "Oral Argument on March 3, 1868"
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1868-03-04",
+        "title": "Oral Argument on March 4, 1868"
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1868-03-05",
+        "title": "Oral Argument on March 5, 1868"
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1868-03-09",
+        "title": "Oral Argument on March 9, 1868"
+      },
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1869-03-19",
+        "title": "Oral Argument on March 19, 1869"
+      }
+    ],
+    "scdb_check": "argument",
+    "scdb_message": "SCDB argument dates incomplete"
+  }
+]

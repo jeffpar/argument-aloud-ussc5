@@ -1,0 +1,757 @@
+[
+  {
+    "id": "1979-073",
+    "title": "City of Mobile v. Bolden",
+    "tags": [
+      "Noteworthy",
+      "15th Amendment: Other Provisions",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Fisher",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Stone",
+      "Curiae: Tribe"
+    ],
+    "number": "77-1844",
+    "files": true,
+    "references": true,
+    "previouslyFiled": "1978-10",
+    "argument": "1979-03-19",
+    "argument_day": "Monday, March 19, 1979",
+    "reargument": "1979-10-29",
+    "reargument_day": "Monday, October 29, 1979",
+    "decision": "1980-04-22",
+    "decision_day": "Tuesday, April 22, 1980",
+    "citation": "446 U.S. 55",
+    "cites": [
+      {
+        "id": "1978-113",
+        "title": "Personnel Administrator of Massachusetts v. Feeney (1979)",
+        "term": "1978-10",
+        "decision": "1979-06-05",
+        "count": 15
+      },
+      {
+        "id": "1977-147",
+        "title": "Regents of the University of California v. Bakke (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-26",
+        "count": 2
+      },
+      {
+        "id": "1977-130",
+        "title": "Wise v. Lipscomb (1978)",
+        "term": "1977-10",
+        "decision": "1978-06-22",
+        "count": 2
+      },
+      {
+        "id": "1976-114",
+        "title": "Connor v. Finch (1977)",
+        "term": "1976-10",
+        "decision": "1977-05-31",
+        "count": 3
+      },
+      {
+        "id": "1976-077",
+        "title": "Castaneda v. Partida (1977)",
+        "term": "1976-10",
+        "decision": "1977-03-23",
+        "count": 3
+      },
+      {
+        "id": "1976-063",
+        "title": "Town of Lockport v. Citizens for Community Action at the Local Level, Inc. (1977)",
+        "term": "1976-10",
+        "decision": "1977-03-07",
+        "count": 2
+      },
+      {
+        "id": "1976-059",
+        "title": "United Jewish Organizations of Williamsburgh, Inc. v. Carey (1977)",
+        "term": "1976-10",
+        "decision": "1977-03-01",
+        "count": 5
+      },
+      {
+        "id": "1976-028",
+        "title": "Village of Arlington Heights v. Metropolitan Housing Development Corp. (1977)",
+        "term": "1976-10",
+        "decision": "1977-01-11",
+        "count": 16
+      },
+      {
+        "id": "1975-113",
+        "title": "Washington v. Davis (1976)",
+        "term": "1975-10",
+        "decision": "1976-06-07",
+        "count": 40
+      },
+      {
+        "id": "1975-066",
+        "title": "Beer v. United States (1976)",
+        "term": "1975-10",
+        "decision": "1976-03-30",
+        "count": 7
+      },
+      {
+        "id": "1975-051",
+        "title": "East Carroll Parish School Board v. Marshall (1976)",
+        "term": "1975-10",
+        "decision": "1976-03-08",
+        "count": 3
+      },
+      {
+        "id": "1974-102",
+        "title": "Dallas County v. Reese (1975)",
+        "term": "1974-10",
+        "decision": "1975-05-19",
+        "count": 3
+      },
+      {
+        "id": "1974-030",
+        "title": "Chapman v. Meier (1975)",
+        "term": "1974-10",
+        "decision": "1975-01-27",
+        "count": 4
+      },
+      {
+        "id": "1972-164",
+        "title": "Keyes v. School District No. 1, Denver, Colorado (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-21",
+        "count": 2
+      },
+      {
+        "id": "1972-153",
+        "title": "White v. Regester (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-18",
+        "count": 12
+      },
+      {
+        "id": "1972-152",
+        "title": "Gaffney v. Cummings (1973)",
+        "term": "1972-10",
+        "decision": "1973-06-18",
+        "count": 5
+      },
+      {
+        "id": "1972-083",
+        "title": "San Antonio Independent School District v. Rodriguez (1973)",
+        "term": "1972-10",
+        "decision": "1973-03-21",
+        "count": 6
+      },
+      {
+        "id": "1972-048",
+        "title": "Roe v. Wade (1973)",
+        "term": "1972-10",
+        "decision": "1973-01-22",
+        "count": 2
+      },
+      {
+        "id": "1971-075",
+        "title": "Dunn v. Blumstein (1972)",
+        "term": "1971-10",
+        "decision": "1972-03-21",
+        "count": 8
+      },
+      {
+        "id": "1970-130",
+        "title": "Palmer v. Thompson (1971)",
+        "term": "1970-10",
+        "decision": "1971-06-14",
+        "count": 4
+      },
+      {
+        "id": "1970-125",
+        "title": "Whitcomb v. Chavis (1971)",
+        "term": "1970-10",
+        "decision": "1971-06-07",
+        "count": 27
+      },
+      {
+        "id": "1970-126",
+        "title": "Abate v. Mundt (1971)",
+        "term": "1970-10",
+        "decision": "1971-06-07",
+        "count": 5
+      },
+      {
+        "id": "1969-114",
+        "title": "Evans v. Cornman (1970)",
+        "term": "1969-10",
+        "decision": "1970-06-15",
+        "count": 2
+      },
+      {
+        "id": "1968-129",
+        "title": "Kramer v. Union Free School District No. 15 (1969)",
+        "term": "1968-10",
+        "decision": "1969-06-16",
+        "count": 4
+      },
+      {
+        "id": "1968-081",
+        "title": "Shapiro v. Thompson (1969)",
+        "term": "1968-10",
+        "decision": "1969-04-21",
+        "count": 2
+      },
+      {
+        "id": "1967-135",
+        "title": "United States v. O'Brien (1968)",
+        "term": "1967-10",
+        "decision": "1968-05-27",
+        "count": 5
+      },
+      {
+        "id": "1967-091",
+        "title": "Avery v. Midland County (1968)",
+        "term": "1967-10",
+        "decision": "1968-04-01",
+        "count": 2
+      },
+      {
+        "id": "1966-055",
+        "title": "Kilgarlin v. Hill (1967)",
+        "term": "1966-10",
+        "decision": "1967-02-20",
+        "count": 2
+      },
+      {
+        "id": "1965-094",
+        "title": "Burns v. Richardson (1966)",
+        "term": "1965-10",
+        "decision": "1966-04-25",
+        "count": 8
+      },
+      {
+        "id": "1965-079",
+        "title": "Harper v. Virginia Board of Elections (1966)",
+        "term": "1965-10",
+        "decision": "1966-03-24",
+        "count": 3
+      },
+      {
+        "id": "1964-028",
+        "title": "Fortson v. Dorsey (1965)",
+        "term": "1964-10",
+        "decision": "1965-01-18",
+        "count": 16
+      },
+      {
+        "id": "1963-140",
+        "title": "Reynolds v. Sims (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 22
+      },
+      {
+        "id": "1963-048",
+        "title": "Wright v. Rockefeller (1964)",
+        "term": "1963-10",
+        "decision": "1964-02-17",
+        "count": 23
+      },
+      {
+        "id": "1963-047",
+        "title": "Wesberry v. Sanders (1964)",
+        "term": "1963-10",
+        "decision": "1964-02-17",
+        "count": 3
+      },
+      {
+        "id": "1962-060",
+        "title": "Gray v. Sanders (1963)",
+        "term": "1962-10",
+        "decision": "1963-03-18",
+        "count": 3
+      },
+      {
+        "id": "1961-051",
+        "title": "Baker v. Carr (1962)",
+        "term": "1961-10",
+        "decision": "1962-03-26",
+        "count": 3
+      },
+      {
+        "id": "1960-005",
+        "title": "Gomillion v. Lightfoot (1960)",
+        "term": "1960-10",
+        "decision": "1960-11-14",
+        "count": 21
+      },
+      {
+        "id": "1958-099",
+        "title": "Lassiter v. Northampton County Board of Elections (1959)",
+        "term": "1958-10",
+        "decision": "1959-06-08",
+        "count": 4
+      },
+      {
+        "id": "1952-084",
+        "title": "Terry v. Adams (1953)",
+        "term": "1952-10",
+        "decision": "1953-05-04",
+        "count": 9
+      },
+      {
+        "id": "1944-034",
+        "title": "Akins v. Texas (1945)",
+        "term": "1944-10",
+        "decision": "1945-06-04",
+        "count": 3
+      },
+      {
+        "id": "1943-133",
+        "title": "Smith v. Allwright (1944)",
+        "term": "1943-10",
+        "decision": "1944-04-03",
+        "count": 5
+      },
+      {
+        "id": "1938-086",
+        "title": "Lane v. Wilson (1939)",
+        "term": "1938-10",
+        "decision": "1939-05-22",
+        "count": 5
+      },
+      {
+        "id": "1922-203",
+        "title": "Meyer v. Nebraska (1923)",
+        "term": "1922-10",
+        "decision": "1923-06-04",
+        "count": 2
+      },
+      {
+        "id": "1914-137",
+        "title": "Guinn v. United States (1915)",
+        "term": "1914-10",
+        "decision": "1915-06-21",
+        "count": 3
+      },
+      {
+        "id": "1883-174",
+        "title": "Ex parte Yarbrough (1884)",
+        "term": "1883-10",
+        "decision": "1884-03-03",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1978/77-1844",
+    "decision_xml": "/courts/ussc/opinions/xml/us446/us446-0055.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep446/usrep446055/usrep446055.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-446_PDFA.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "burger6",
+    "score": "6-3",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: judgment of the Court",
+        "opinion": true
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1979-03-19",
+        "title": "Oral Argument on March 19, 1979",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1978/77-1844/19790319a_77-1844.delivery.mp3",
+        "length": "02:12:01.48",
+        "size": 31790352,
+        "bitrate": "32kbps",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1978/77-1844_78-357_03-19-1979.pdf",
+        "text_file": "77-1844/1979-03-19-oyez.json",
+        "advocates": [
+          {
+            "name": "CHARLES S. RHYNE",
+            "title": "MR.",
+            "role": "appellant*"
+          },
+          {
+            "name": "J.U. BLACKSHER",
+            "title": "MR.",
+            "role": "appellee*"
+          },
+          {
+            "name": "JAMES P. TURNER",
+            "title": "MR."
+          },
+          {
+            "name": "WILLIAM H. ALLEN",
+            "title": "MR.",
+            "role": "appellant*"
+          },
+          {
+            "name": "ERIC SCHNAPPER",
+            "title": "MR.",
+            "role": "appellee*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "reargument",
+        "date": "1979-10-29",
+        "title": "Oral Reargument on October 29, 1979",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1979/77-1844_78-357_10-29-1979.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "reargument",
+        "date": "1979-10-29",
+        "title": "Oral Reargument on October 29, 1979",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1978/77-1844/19791029r_77-1844.delivery.mp3",
+        "length": "01:55:15.29",
+        "size": 27765614,
+        "bitrate": "32kbps",
+        "text_file": "77-1844/1979-10-29-oyez.json",
+        "advocates": [
+          {
+            "name": "CHARLES S. RHYNE",
+            "title": "MR.",
+            "role": "appellant"
+          },
+          {
+            "name": "J.U. BLACKSHER",
+            "title": "MR.",
+            "role": "appellee"
+          },
+          {
+            "name": "JAMES P. TURNER",
+            "title": "MR.",
+            "role": "appellant*"
+          },
+          {
+            "name": "WILLIAM H. ALLEN",
+            "title": "MR.",
+            "role": "appellant"
+          },
+          {
+            "name": "ERIC SCHNAPPER",
+            "title": "MR.",
+            "role": "appellee"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "1980-04-22",
+        "title": "Opinion Announcement on April 22, 1980",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1978/77-1844/19800422o_77-1844.delivery.mp3",
+        "length": "00:01:52.69",
+        "size": 479441,
+        "bitrate": "34kbps",
+        "text_file": "77-1844/1980-04-22-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "1979-148",
+    "title": "Harris v. McRae",
+    "tags": [
+      "Noteworthy",
+      "Medicaid provisions of the Social Security Act",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Stone"
+    ],
+    "number": "79-1268",
+    "files": true,
+    "references": true,
+    "argument": "1980-04-21",
+    "argument_day": "Monday, April 21, 1980",
+    "decision": "1980-06-30",
+    "decision_day": "Monday, June 30, 1980",
+    "citation": "448 U.S. 297",
+    "cites": [
+      {
+        "id": "1978-158",
+        "title": "Bellotti v. Baird (1979)",
+        "term": "1978-10",
+        "decision": "1979-07-02",
+        "count": 2
+      },
+      {
+        "id": "1976-155",
+        "title": "Maher v. Roe (1977)",
+        "term": "1976-10",
+        "decision": "1977-06-20",
+        "count": 59
+      },
+      {
+        "id": "1976-154",
+        "title": "Beal v. Doe (1977)",
+        "term": "1976-10",
+        "decision": "1977-06-20",
+        "count": 10
+      },
+      {
+        "id": "1976-157",
+        "title": "Poelker v. Doe (1977)",
+        "term": "1976-10",
+        "decision": "1977-06-20",
+        "count": 3
+      },
+      {
+        "id": "1976-025",
+        "title": "Craig v. Boren (1976)",
+        "term": "1976-10",
+        "decision": "1976-12-20",
+        "count": 4
+      },
+      {
+        "id": "1975-170",
+        "title": "Planned Parenthood of Central Missouri v. Danforth (1976)",
+        "term": "1975-10",
+        "decision": "1976-07-01",
+        "count": 4
+      },
+      {
+        "id": "1975-171",
+        "title": "Singleton v. Wulff (1976)",
+        "term": "1975-10",
+        "decision": "1976-07-01",
+        "count": 2
+      },
+      {
+        "id": "1975-156",
+        "title": "Massachusetts Board of Retirement v. Murgia (1976)",
+        "term": "1975-10",
+        "decision": "1976-06-25",
+        "count": 2
+      },
+      {
+        "id": "1973-058",
+        "title": "Memorial Hospital v. Maricopa County (1974)",
+        "term": "1973-10",
+        "decision": "1974-02-26",
+        "count": 2
+      },
+      {
+        "id": "1972-083",
+        "title": "San Antonio Independent School District v. Rodriguez (1973)",
+        "term": "1972-10",
+        "decision": "1973-03-21",
+        "count": 3
+      },
+      {
+        "id": "1972-048",
+        "title": "Roe v. Wade (1973)",
+        "term": "1972-10",
+        "decision": "1973-01-22",
+        "count": 64
+      },
+      {
+        "id": "1972-049",
+        "title": "Doe v. Bolton (1973)",
+        "term": "1972-10",
+        "decision": "1973-01-22",
+        "count": 3
+      },
+      {
+        "id": "1969-073",
+        "title": "Dandridge v. Williams (1970)",
+        "term": "1969-10",
+        "decision": "1970-04-06",
+        "count": 3
+      },
+      {
+        "id": "1968-081",
+        "title": "Shapiro v. Thompson (1969)",
+        "term": "1968-10",
+        "decision": "1969-04-21",
+        "count": 2
+      },
+      {
+        "id": "1963-140",
+        "title": "Reynolds v. Sims (1964)",
+        "term": "1963-10",
+        "decision": "1964-06-15",
+        "count": 2
+      },
+      {
+        "id": "1962-150",
+        "title": "Sherbert v. Verner (1963)",
+        "term": "1962-10",
+        "decision": "1963-06-17",
+        "count": 4
+      },
+      {
+        "id": "1960-102",
+        "title": "McGowan v. Maryland (1961)",
+        "term": "1960-10",
+        "decision": "1961-05-29",
+        "count": 4
+      },
+      {
+        "id": "1954-046",
+        "title": "Williamson v. Lee Optical of Okla., Inc. (1955)",
+        "term": "1954-10",
+        "decision": "1955-03-28",
+        "count": 2
+      },
+      {
+        "id": "1925-198",
+        "title": "Frost & Frost Trucking Co. v. Railroad Commission of California (1926)",
+        "term": "1925-10",
+        "decision": "1926-06-07",
+        "count": 2
+      },
+      {
+        "id": "1924-161",
+        "title": "Pierce v. Society of Sisters (1925)",
+        "term": "1924-10",
+        "decision": "1925-06-01",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1979/79-1268",
+    "decision_xml": "/courts/ussc/opinions/xml/us448/us448-0297.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep448/usrep448297/usrep448297.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-448_PDFA.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "burger6",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "1980-04-21",
+        "title": "Oral Argument on April 21, 1980",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1979/79-1268_04-21-1980.pdf",
+        "journal_ref": "1979.620"
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1980-04-21",
+        "title": "Oral Argument on April 21, 1980",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1979/79-1268/19800421a_79-1268.delivery.mp3",
+        "length": "01:05:26.20",
+        "size": 15809264,
+        "bitrate": "32kbps",
+        "text_file": "79-1268/1980-04-21-oyez.json",
+        "journal_ref": "1979.620",
+        "advocates": [
+          {
+            "name": "WADE H. MCCREE, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "RHONDA COPELON",
+            "title": "MS.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1946-049",
+    "title": "Everson v. Board of Education of Ewing",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Due Process",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Stone",
+      "Curiae: Tribe"
+    ],
+    "number": "52",
+    "files": true,
+    "references": false,
+    "argument": "1946-11-20",
+    "argument_day": "Wednesday, November 20, 1946",
+    "decision": "1947-02-10",
+    "decision_day": "Monday, February 10, 1947",
+    "citation": "330 U.S. 1",
+    "cites": [
+      {
+        "id": "1945-118",
+        "title": "Marsh v. Alabama (1946)",
+        "term": "1945-10",
+        "decision": "1946-01-07",
+        "count": 2
+      },
+      {
+        "id": "1944-128",
+        "title": "Thomas v. Collins (1945)",
+        "term": "1944-10",
+        "decision": "1945-01-08",
+        "count": 3
+      },
+      {
+        "id": "1943-096",
+        "title": "Prince v. Massachusetts (1944)",
+        "term": "1943-10",
+        "decision": "1944-01-31",
+        "count": 2
+      },
+      {
+        "id": "1942-131",
+        "title": "West Virginia Board of Education v. Barnette (1943)",
+        "term": "1942-10",
+        "decision": "1943-06-14",
+        "count": 2
+      },
+      {
+        "id": "1942-154",
+        "title": "Murdock v. Pennsylvania (1943)",
+        "term": "1942-10",
+        "decision": "1943-05-03",
+        "count": 5
+      },
+      {
+        "id": "1942-073",
+        "title": "Martin v. City of Struthers (1943)",
+        "term": "1942-10",
+        "decision": "1943-05-03",
+        "count": 2
+      },
+      {
+        "id": "1942-159",
+        "title": "Jamison v. Texas (1943)",
+        "term": "1942-10",
+        "decision": "1943-03-08",
+        "count": 2
+      },
+      {
+        "id": "1939-124",
+        "title": "Cantwell v. Connecticut (1940)",
+        "term": "1939-10",
+        "decision": "1940-05-20",
+        "count": 3
+      },
+      {
+        "id": "1936-101",
+        "title": "Carmichael v. Southern Coal & Coke Co. (1937)",
+        "term": "1936-10",
+        "decision": "1937-05-24",
+        "count": 3
+      },
+      {
+        "id": "1929-052",
+        "title": "Cochran v. Louisiana Board of Education (1930)",
+        "term": "1929-10",
+        "decision": "1930-04-28",
+        "count": 6
+      },
+      {
+        "id": "1924-161",
+        "title": "Pierce v. Society of Sisters (1925)",
+        "term": "1924-10",
+        "decision": "1925-06-01",
+        "count": 2
+      },
+      {
+        "id": "1919-056",
+        "title": "Green v. Frazier (1920)",
+        "term": "1919-10",
+        "decision": "1920-06-01",
+        "count": 2
+      },
+      {
+        "id": "1907-109",
+        "title": "Quick Bear v. Leupp (1908)",
+        "term": "1907-10",
+        "decision": "1908-05-18",
+        "count": 2
+      },
+      {
+        "id": "1907-008",
+        "title": "Interstate Consolidated Street Railway Co. v. Massachusetts (1907)",
+        "term": "1907-10",
+        "decision": "1907-11-04",
+        "count": 3
+      },
+      {
+        "id": "1899-023",
+        "title": "Bradfield v. Roberts (1899)",
+        "term": "1899-10",
+        "decision": "1899-12-04",
+        "count": 2
+      },
+      {
+        "id": "1889-117",
+        "title": "Davis v. Beason (1890)",
+        "term": "1889-10",
+        "decision": "1890-02-03",
+        "count": 3
+      },
+      {
+        "id": "1884-086",
+        "title": "Barbier v. Connolly (1885)",
+        "term": "1884-10",
+        "decision": "1885-01-05",
+        "count": 2
+      },
+      {
+        "id": "1878-065",
+        "title": "Reynolds v. United States (1879)",
+        "term": "1878-10",
+        "decision": "1879-01-06",
+        "count": 3
+      },
+      {
+        "id": "1871-152",
+        "title": "Watson v. Jones (1872)",
+        "term": "1871-12",
+        "decision": "1872-04-15",
+        "count": 3
+      },
+      {
+        "id": "1828-029",
+        "title": "Davis v. Mason (1828)",
+        "term": "1828-01",
+        "decision": "1828-02-22",
+        "count": 4
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us330/us330-0001.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep330/usrep330001/usrep330001.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-330_PDFA.pdf",
+    "result": "affirmed; no favorable disposition for petitioning party apparent",
+    "bench": "vinson1",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "FRED VINSON",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "STANLEY REED",
+        "side": "majority"
+      },
+      {
+        "name": "FELIX FRANKFURTER",
+        "side": "minority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "FRANCIS MURPHY",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT JACKSON",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "WILEY RUTLEDGE",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "HAROLD BURTON",
+        "side": "minority"
+      }
+    ],
+    "events": [
+      {
+        "source": "scdb",
+        "type": "argument",
+        "date": "1946-11-20",
+        "title": "Oral Argument on November 20, 1946"
+      }
+    ]
+  }
+]

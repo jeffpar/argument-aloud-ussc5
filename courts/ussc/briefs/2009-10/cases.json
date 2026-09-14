@@ -1,0 +1,822 @@
+[
+  {
+    "id": "2009-052",
+    "title": "American Needle Inc. v. National Football League",
+    "number": "08-661",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/08-661.htm",
+    "argument": "2010-01-13",
+    "argument_day": "Wednesday, January 13, 2010",
+    "decision": "2010-05-24",
+    "decision_day": "Monday, May 24, 2010",
+    "citation": "560 U.S. 183",
+    "cites": [
+      {
+        "id": "1995-078",
+        "title": "Brown v. Pro Football Inc. (1996)",
+        "term": "1995-10",
+        "decision": "1996-06-20",
+        "count": 2
+      },
+      {
+        "id": "1983-131",
+        "title": "Copperweld Corp. v. Independence Tube Corp. (1984)",
+        "term": "1983-10",
+        "decision": "1984-06-19",
+        "count": 3
+      },
+      {
+        "id": "1977-069",
+        "title": "National Society of Professional Engineers v. United States (1978)",
+        "term": "1977-10",
+        "decision": "1978-04-25",
+        "count": 2
+      },
+      {
+        "id": "1966-129",
+        "title": "United States v. Sealy, Inc. (1967)",
+        "term": "1966-10",
+        "decision": "1967-06-12",
+        "count": 2
+      },
+      {
+        "id": "1917-075",
+        "title": "Board of Trade of Chicago v. United States (1918)",
+        "term": "1917-10",
+        "decision": "1918-03-04",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2009/08-661",
+    "decision_xml": "/courts/ussc/opinions/xml/us560/us560-0183.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep560/usrep560183/usrep560183.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/560bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2010-01-13",
+        "title": "Oral Argument on January 13, 2010",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-661.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2010-01-13",
+        "title": "Oral Argument on January 13, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-661/20100113a_08-661.delivery.mp3",
+        "length": "01:11:18.10",
+        "size": 17217870,
+        "bitrate": "32kbps",
+        "text_file": "08-661/2010-01-13-oyez.json",
+        "advocates": [
+          {
+            "name": "GLEN D. NAGER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "MALCOLM L. STEWART",
+            "title": "MR."
+          },
+          {
+            "name": "GREGG H. LEVY",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2010-05-24",
+        "title": "Opinion Announcement on May 24, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-661/20100524o_08-661.delivery.mp3",
+        "length": "00:02:19.34",
+        "size": 662821,
+        "bitrate": "38kbps",
+        "text_file": "08-661/2010-05-24-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2009-031",
+    "title": "Milavetz, Gallop & Milavetz, P.A. v. United States",
+    "number": "08-1119;08-1225",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/08-1119.htm",
+    "argument": "2009-12-01",
+    "argument_day": "Tuesday, December 1, 2009",
+    "decision": "2010-03-08",
+    "decision_day": "Monday, March 8, 2010",
+    "citation": "559 U.S. 229",
+    "cites": [
+      {
+        "id": "2007-024",
+        "title": "Washington State Grange v. Washington State Republican Party (2008)",
+        "term": "2007-10",
+        "decision": "2008-03-18",
+        "count": 2
+      },
+      {
+        "id": "1995-049",
+        "title": "44 Liquormart Inc. v. Rhode Island (1996)",
+        "term": "1995-10",
+        "decision": "1996-05-13",
+        "count": 2
+      },
+      {
+        "id": "1987-151",
+        "title": "Riley v. National Federation of the Blind of North Carolina (1988)",
+        "term": "1987-10",
+        "decision": "1988-06-29",
+        "count": 2
+      },
+      {
+        "id": "1984-102",
+        "title": "Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio (1985)",
+        "term": "1984-10",
+        "decision": "1985-05-28",
+        "count": 4
+      },
+      {
+        "id": "1981-037",
+        "title": "In re R. M. J. (1982)",
+        "term": "1981-10",
+        "decision": "1982-01-25",
+        "count": 3
+      },
+      {
+        "id": "1979-127",
+        "title": "Central Hudson Gas & Electric Corp. v. Public Service Commission of New York (1980)",
+        "term": "1979-10",
+        "decision": "1980-06-20",
+        "count": 3
+      },
+      {
+        "id": "1932-056",
+        "title": "Conrad, Rubin & Lesser v. Pender (1933)",
+        "term": "1932-10",
+        "decision": "1933-05-29",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2009/08-1119",
+    "decision_xml": "/courts/ussc/opinions/xml/us559/us559-0229.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep559/usrep559229/usrep559229.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/559bv.pdf",
+    "result": "affirmed and reversed (or vacated) in part and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2009-12-01",
+        "title": "Oral Argument on December 1, 2009",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1119.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2009-12-01",
+        "title": "Oral Argument on December 1, 2009",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1119/20091201a_08-1119.delivery.mp3",
+        "length": "01:00:46.09",
+        "size": 14690868,
+        "bitrate": "32kbps",
+        "text_file": "08-1119/2009-12-01-oyez.json",
+        "advocates": [
+          {
+            "name": "G. ERIC BRUNSTAD, JR.",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "WILLIAM M. JAY",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2010-03-08",
+        "title": "Opinion Announcement on March 8, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1119/20100308o_08-1119.delivery.mp3",
+        "length": "00:05:25.07",
+        "size": 1406767,
+        "bitrate": "35kbps",
+        "text_file": "08-1119/2010-03-08-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2009-024",
+    "title": "Florida v. Powell",
+    "number": "08-1175",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/08-1175.htm",
+    "argument": "2009-12-07",
+    "argument_day": "Monday, December 7, 2009",
+    "decision": "2010-02-23",
+    "decision_day": "Tuesday, February 23, 2010",
+    "citation": "559 U.S. 50",
+    "cites": [
+      {
+        "id": "1996-005",
+        "title": "Ohio v. Robinette (1996)",
+        "term": "1996-10",
+        "decision": "1996-11-18",
+        "count": 3
+      },
+      {
+        "id": "1995-096",
+        "title": "Pennsylvania v. Labron (1996)",
+        "term": "1995-10",
+        "decision": "1996-07-01",
+        "count": 2
+      },
+      {
+        "id": "1990-122",
+        "title": "Coleman v. Thompson (1991)",
+        "term": "1990-10",
+        "decision": "1991-06-24",
+        "count": 2
+      },
+      {
+        "id": "1988-142",
+        "title": "Duckworth v. Eagan (1989)",
+        "term": "1988-10",
+        "decision": "1989-06-26",
+        "count": 3
+      },
+      {
+        "id": "1982-163",
+        "title": "Michigan v. Long (1983)",
+        "term": "1982-10",
+        "decision": "1983-07-06",
+        "count": 4
+      },
+      {
+        "id": "1980-144",
+        "title": "California v. Prysock (1981)",
+        "term": "1980-10",
+        "decision": "1981-06-29",
+        "count": 4
+      },
+      {
+        "id": "1965-122",
+        "title": "Miranda v. Arizona (1966)",
+        "term": "1965-10",
+        "decision": "1966-06-13",
+        "count": 5
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2009/08-1175",
+    "decision_xml": "/courts/ussc/opinions/xml/us559/us559-0050.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep559/usrep559050/usrep559050.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/559bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "minority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2009-12-07",
+        "title": "Oral Argument on December 7, 2009",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1175.pdf",
+        "journal_ref": "2009.392",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2009-12-07",
+        "title": "Oral Argument on December 7, 2009",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1175/20091207a_08-1175.delivery.mp3",
+        "length": "00:59:53.90",
+        "size": 14480050,
+        "bitrate": "32kbps",
+        "text_file": "08-1175/2009-12-07-oyez.json",
+        "journal_ref": "2009.392",
+        "advocates": [
+          {
+            "name": "JOSEPH W. JACQUOT",
+            "title": "MR.",
+            "role": "petitioner"
+          },
+          {
+            "name": "DAVID A. O'NEIL",
+            "title": "MR.",
+            "role": "respondent*"
+          },
+          {
+            "name": "DEBORAH K. BRUECKHEIMER",
+            "title": "MS.",
+            "role": "respondent"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2010-02-23",
+        "title": "Opinion Announcement on February 23, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1175/20100223o_08-1175.delivery.mp3",
+        "length": "00:04:00.69",
+        "size": 1067217,
+        "bitrate": "35kbps",
+        "text_file": "08-1175/2010-02-23-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2009-069",
+    "title": "Astrue v. Ratliff",
+    "number": "08-1322",
+    "files": false,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/08-1322.htm",
+    "argument": "2010-02-22",
+    "argument_day": "Monday, February 22, 2010",
+    "decision": "2010-06-14",
+    "decision_day": "Monday, June 14, 2010",
+    "citation": "560 U.S. 586",
+    "cites": [
+      {
+        "id": "2003-054",
+        "title": "Scarborough v. Principi (2004)",
+        "term": "2003-10",
+        "decision": "2004-05-03",
+        "count": 2
+      },
+      {
+        "id": "2001-054",
+        "title": "Gisbrecht v. Barnhart (2002)",
+        "term": "2001-10",
+        "decision": "2002-05-28",
+        "count": 2
+      },
+      {
+        "id": "2000-055",
+        "title": "Buckhannon Board & Care Home, Inc. v. West Virginia Department of Health & Human Resources (2001)",
+        "term": "2000-10",
+        "decision": "2001-05-29",
+        "count": 2
+      },
+      {
+        "id": "1985-064",
+        "title": "Evans v. Jeff D. (1986)",
+        "term": "1985-10",
+        "decision": "1986-04-21",
+        "count": 2
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2009/08-1322",
+    "decision_xml": "/courts/ussc/opinions/xml/us560/us560-0586.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep560/usrep560586/usrep560586.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/560bv.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2010-02-22",
+        "title": "Oral Argument on February 22, 2010",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1322.pdf",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2010-02-22",
+        "title": "Oral Argument on February 22, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1322/20100222a_08-1322.delivery.mp3",
+        "length": "01:00:45.91",
+        "size": 14689113,
+        "bitrate": "32kbps",
+        "text_file": "08-1322/2010-02-22-oyez.json",
+        "advocates": [
+          {
+            "name": "ANTHONY A. YANG",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "JAMES D. LEACH",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2010-06-14",
+        "title": "Opinion Announcement on June 14, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1322/20100614o_08-1322.delivery.mp3",
+        "length": "00:03:21.14",
+        "size": 910043,
+        "bitrate": "36kbps",
+        "text_file": "08-1322/2010-06-14-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2009-068",
+    "title": "Carachuri-Rosendo v. Holder",
+    "number": "09-60",
+    "files": true,
+    "references": true,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/09-60.htm",
+    "argument": "2010-03-31",
+    "argument_day": "Wednesday, March 31, 2010",
+    "decision": "2010-06-14",
+    "decision_day": "Monday, June 14, 2010",
+    "citation": "560 U.S. 563",
+    "cites": [
+      {
+        "id": "2007-040",
+        "title": "United States v. Rodriquez (2008)",
+        "term": "2007-10",
+        "decision": "2008-05-19",
+        "count": 2
+      },
+      {
+        "id": "2006-003",
+        "title": "Lopez v. Gonzales (2006)",
+        "term": "2006-10",
+        "decision": "2006-12-05",
+        "count": 4
+      },
+      {
+        "id": "2004-001",
+        "title": "Leocal v. Ashcroft (2004)",
+        "term": "2004-10",
+        "decision": "2004-11-09",
+        "count": 2
+      },
+      {
+        "id": "1997-045",
+        "title": "Almendarez-Torres v. United States (1998)",
+        "term": "1997-10",
+        "decision": "1998-03-24",
+        "count": 3
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/2009/09-60",
+    "decision_xml": "/courts/ussc/opinions/xml/us560/us560-0563.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep560/usrep560563/usrep560563.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/560bv.pdf",
+    "result": "reversed; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "majority",
+        "action": "wrote an opinion: special concurrence"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "ussc",
+        "type": "argument",
+        "date": "2010-03-31",
+        "title": "Oral Argument on March 31, 2010",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/09-60.pdf",
+        "journal_ref": "2009.713",
+        "redundant": true
+      },
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "2010-03-31",
+        "title": "Oral Argument on March 31, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/09-60/20100331a_09-60.delivery.mp3",
+        "length": "01:00:32.74",
+        "size": 14636450,
+        "bitrate": "32kbps",
+        "text_file": "09-60/2010-03-31-oyez.json",
+        "journal_ref": "2009.713",
+        "advocates": [
+          {
+            "name": "SRI SRINIVASAN",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "NICOLE A. SAHARSKY",
+            "title": "MS.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "2010-06-14",
+        "title": "Opinion Announcement on June 14, 2010",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/09-60/20100614o_09-60.delivery.mp3",
+        "length": "00:01:24.45",
+        "size": 443288,
+        "bitrate": "42kbps",
+        "text_file": "09-60/2010-06-14-oyez.json",
+        "aligned": true
+      }
+    ]
+  },
+  {
+    "id": "2009-058",
+    "title": "Jefferson v. Upton",
+    "number": "09-8852",
+    "files": false,
+    "references": false,
+    "docket_url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/09-8852.htm",
+    "decision": "2010-05-24",
+    "decision_day": "Monday, May 24, 2010",
+    "citation": "560 U.S. 284",
+    "cites": [
+      {
+        "id": "1990-026",
+        "title": "Parker v. Dugger (1991)",
+        "term": "1990-10",
+        "decision": "1991-01-22",
+        "count": 2
+      },
+      {
+        "id": "1989-092",
+        "title": "Demosthenes v. Baal (1990)",
+        "term": "1989-10",
+        "decision": "1990-06-03",
+        "count": 2
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us560/us560-0284.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep560/usrep560284/usrep560284.pdf",
+    "decision_vol": "https://www.supremecourt.gov/opinions/boundvolumes/560bv.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "roberts3",
+    "score": "7-2",
+    "votes": [
+      {
+        "name": "JOHN ROBERTS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "majority"
+      },
+      {
+        "name": "ANTONIN SCALIA",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "ANTHONY KENNEDY",
+        "side": "majority"
+      },
+      {
+        "name": "CLARENCE THOMAS",
+        "side": "minority"
+      },
+      {
+        "name": "RUTH BADER GINSBURG",
+        "side": "majority"
+      },
+      {
+        "name": "STEPHEN BREYER",
+        "side": "majority"
+      },
+      {
+        "name": "SAMUEL ALITO",
+        "side": "majority"
+      },
+      {
+        "name": "SONIA SOTOMAYOR",
+        "side": "majority"
+      }
+    ]
+  }
+]

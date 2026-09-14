@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1967-139",
+    "title": "Green v. County School Board of New Kent County",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Equal Protection",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Schwartz"
+    ],
+    "number": "695",
+    "files": false,
+    "references": true,
+    "argument": "1968-04-03",
+    "argument_day": "Wednesday, April 3, 1968",
+    "decision": "1968-05-27",
+    "decision_day": "Monday, May 27, 1968",
+    "citation": "391 U.S. 430",
+    "cites": [
+      {
+        "id": "1963-117",
+        "title": "Griffin v. School Board of Prince Edward County (1964)",
+        "term": "1963-10",
+        "decision": "1964-05-25",
+        "count": 3
+      },
+      {
+        "id": "1962-125",
+        "title": "Watson v. City of Memphis (1963)",
+        "term": "1962-10",
+        "decision": "1963-05-27",
+        "count": 2
+      },
+      {
+        "id": "1958-002",
+        "title": "Cooper v. Aaron (1958)",
+        "term": "1958-08",
+        "decision": "1958-09-12",
+        "count": 2
+      },
+      {
+        "id": "1954-085",
+        "title": "Brown v. Board of Education (II) (1955)",
+        "term": "1954-10",
+        "decision": "1955-05-31",
+        "count": 3
+      },
+      {
+        "id": "1953-069",
+        "title": "Brown v. Board of Education (I) (1954)",
+        "term": "1953-10",
+        "decision": "1954-05-17",
+        "count": 4
+      }
+    ],
+    "oyez_url": "https://www.oyez.org/cases/1967/695",
+    "decision_xml": "/courts/ussc/opinions/xml/us391/us391-0430.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391430/usrep391430.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-391_PDFA.pdf",
+    "result": "vacated and remanded; petitioning party received a favorable disposition",
+    "bench": "warren12",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority"
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "JOHN HARLAN, II",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "majority"
+      },
+      {
+        "name": "ABE FORTAS",
+        "side": "majority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1968-04-03",
+        "title": "Oral Argument on April 3, 1968",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1967/695/19680403a_695.delivery.mp3",
+        "length": "00:57:44.96",
+        "size": 13963264,
+        "bitrate": "32kbps",
+        "text_file": "695/1968-04-03-oyez.json",
+        "advocates": [
+          {
+            "name": "SAMUEL W. TUCKER",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "FREDERICK T. GRAY",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      }
+    ]
+  }
+]

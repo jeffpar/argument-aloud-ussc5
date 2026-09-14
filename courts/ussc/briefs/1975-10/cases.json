@@ -1,0 +1,330 @@
+[
+  {
+    "id": "1975-143",
+    "title": "National League of Cities v. Usery",
+    "tags": [
+      "Noteworthy",
+      "Article I, Section 8: Interstate Commerce Clause",
+      "Historical Briefs",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Tribe"
+    ],
+    "number": "74-878;74-879",
+    "files": true,
+    "references": true,
+    "previouslyFiled": "1974-10",
+    "argument": "1975-04-16",
+    "argument_day": "Wednesday, April 16, 1975",
+    "reargument": "1976-03-02",
+    "reargument_day": "Tuesday, March 2, 1976",
+    "decision": "1976-06-24",
+    "decision_day": "Thursday, June 24, 1976",
+    "citation": "426 U.S. 833",
+    "cites": [
+      {
+        "id": "1974-106",
+        "title": "Fry v. United States (1975)",
+        "term": "1974-10",
+        "decision": "1975-05-27",
+        "count": 25
+      },
+      {
+        "id": "1972-095",
+        "title": "Employees of the Department of Public Health & Welfare of Missouri v. Missouri Public Health & Welfare of Missouri (1973)",
+        "term": "1972-10",
+        "decision": "1973-04-18",
+        "count": 5
+      },
+      {
+        "id": "1968-098",
+        "title": "Leary v. United States (1969)",
+        "term": "1968-10",
+        "decision": "1969-05-19",
+        "count": 2
+      },
+      {
+        "id": "1967-162",
+        "title": "Maryland v. Wirtz (1968)",
+        "term": "1967-10",
+        "decision": "1968-06-10",
+        "count": 34
+      },
+      {
+        "id": "1967-101",
+        "title": "United States v. Jackson (1968)",
+        "term": "1967-10",
+        "decision": "1968-04-08",
+        "count": 2
+      },
+      {
+        "id": "1964-018",
+        "title": "Katzenbach v. McClung (1964)",
+        "term": "1964-10",
+        "decision": "1964-12-14",
+        "count": 2
+      },
+      {
+        "id": "1963-115",
+        "title": "Parden v. Terminal Railway Co. of Alabama Docks Dept. (1964)",
+        "term": "1963-10",
+        "decision": "1964-05-18",
+        "count": 5
+      },
+      {
+        "id": "1956-094",
+        "title": "California v. Taylor (1957)",
+        "term": "1956-10",
+        "decision": "1957-06-03",
+        "count": 2
+      },
+      {
+        "id": "1946-051",
+        "title": "Oklahoma v. Civil Serv. Commission (1947)",
+        "term": "1946-10",
+        "decision": "1947-02-10",
+        "count": 2
+      },
+      {
+        "id": "1945-053",
+        "title": "Case v. Bowles (1946)",
+        "term": "1945-10",
+        "decision": "1946-02-04",
+        "count": 6
+      },
+      {
+        "id": "1945-128",
+        "title": "New York v. United States (1946)",
+        "term": "1945-10",
+        "decision": "1946-01-14",
+        "count": 6
+      },
+      {
+        "id": "1942-005",
+        "title": "Wickard v. Filburn (1942)",
+        "term": "1942-10",
+        "decision": "1942-11-09",
+        "count": 2
+      },
+      {
+        "id": "1940-065",
+        "title": "Oklahoma ex rel. Phillips v. Guy F. Atkinson Co. (1941)",
+        "term": "1940-10",
+        "decision": "1941-06-02",
+        "count": 2
+      },
+      {
+        "id": "1940-092",
+        "title": "United States v. Darby (1941)",
+        "term": "1940-10",
+        "decision": "1941-02-03",
+        "count": 5
+      },
+      {
+        "id": "1938-050",
+        "title": "Mulford v. Smith (1939)",
+        "term": "1938-10",
+        "decision": "1939-04-17",
+        "count": 2
+      },
+      {
+        "id": "1937-078",
+        "title": "Helvering v. Gerhardt (1938)",
+        "term": "1937-10",
+        "decision": "1938-05-23",
+        "count": 3
+      },
+      {
+        "id": "1936-053",
+        "title": "NLRB v. Jones & Laughlin Steel Corp. (1937)",
+        "term": "1936-10",
+        "decision": "1937-04-12",
+        "count": 2
+      },
+      {
+        "id": "1935-140",
+        "title": "United States v. California (1936)",
+        "term": "1935-10",
+        "decision": "1936-02-03",
+        "count": 10
+      },
+      {
+        "id": "1925-147",
+        "title": "Metcalf & Eddy v. Mitchell (1926)",
+        "term": "1925-10",
+        "decision": "1926-01-11",
+        "count": 2
+      },
+      {
+        "id": "1924-180",
+        "title": "Sanitary District of Chicago v. United States (1925)",
+        "term": "1924-10",
+        "decision": "1925-01-05",
+        "count": 2
+      },
+      {
+        "id": "1868-077",
+        "title": "Texas v. White (1869)",
+        "term": "1868-12",
+        "decision": "1869-04-12",
+        "count": 3
+      },
+      {
+        "id": "1868-026",
+        "title": "Lane County v. Oregon (1869)",
+        "term": "1868-12",
+        "decision": "1869-02-08",
+        "count": 3
+      },
+      {
+        "id": "1824-012",
+        "title": "Gibbons v. Ogden (1824)",
+        "term": "1824-02",
+        "decision": "1824-03-02",
+        "count": 6
+      },
+      {
+        "id": "1819-023",
+        "title": "McCulloch v. Maryland (1819)",
+        "term": "1819-02",
+        "decision": "1819-03-06",
+        "count": 4
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us426/us426-0833.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep426/usrep426833/usrep426833.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-426_PDFA.pdf",
+    "result": "reversed and remanded; petitioning party received a favorable disposition",
+    "bench": "burger6",
+    "score": "5-4",
+    "votes": [
+      {
+        "name": "WARREN BURGER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM BRENNAN",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      },
+      {
+        "name": "POTTER STEWART",
+        "side": "majority"
+      },
+      {
+        "name": "BYRON WHITE",
+        "side": "minority"
+      },
+      {
+        "name": "THURGOOD MARSHALL",
+        "side": "minority"
+      },
+      {
+        "name": "HARRY BLACKMUN",
+        "side": "majority",
+        "action": "wrote an opinion: regular concurrence"
+      },
+      {
+        "name": "LEWIS POWELL",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM REHNQUIST",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "JOHN PAUL STEVENS",
+        "side": "minority",
+        "action": "wrote an opinion: dissent"
+      }
+    ],
+    "events": [
+      {
+        "source": "oyez",
+        "type": "argument",
+        "date": "1975-04-16",
+        "title": "Oral Argument on April 16, 1975",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1974/74-878/19750416a_74-878.delivery.mp3",
+        "length": "01:57:55.03",
+        "size": 28404569,
+        "bitrate": "32kbps",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1974/74-878_74-879_04-16-1975.pdf",
+        "text_file": "74-878/1975-04-16-oyez.json",
+        "advocates": [
+          {
+            "name": "CHARLES S. RHYNE",
+            "title": "MR.",
+            "role": "appellant*"
+          },
+          {
+            "name": "TALMADGE R. JONES",
+            "title": "MR."
+          },
+          {
+            "name": "ROBERT H. BORK",
+            "title": "MR.,GENERAL",
+            "role": "appellee*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "ussc",
+        "type": "reargument",
+        "date": "1976-03-02",
+        "title": "Oral Reargument on March 2, 1976",
+        "transcript_url": "https://www.supremecourt.gov/pdfs/transcripts/1975/74-878_74-879_03-02-1976.pdf"
+      },
+      {
+        "source": "oyez",
+        "type": "reargument",
+        "date": "1976-03-02",
+        "title": "Oral Reargument on March 2, 1976",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1974/74-878/19760302r_74-878.delivery.mp3",
+        "length": "01:55:12.05",
+        "size": 27676881,
+        "bitrate": "32kbps",
+        "text_file": "74-878/1976-03-02-oyez.json",
+        "advocates": [
+          {
+            "name": "CALVIN L. RAMPTON",
+            "title": "MR.",
+            "role": "petitioner*"
+          },
+          {
+            "name": "CHARLES S. RHYNE",
+            "title": "MR."
+          },
+          {
+            "name": "ROBERT H. BORK",
+            "title": "MR.",
+            "role": "respondent*"
+          }
+        ],
+        "aligned": true
+      },
+      {
+        "source": "oyez",
+        "type": "decision",
+        "date": "1976-06-24",
+        "title": "Opinion Announcement on June 24, 1976",
+        "audio_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1974/74-878/19760624o_74-878.delivery.mp3",
+        "length": "00:04:39.07",
+        "size": 1199496,
+        "bitrate": "34kbps",
+        "text_file": "74-878/1976-06-24-oyez.json",
+        "aligned": true
+      }
+    ]
+  }
+]
