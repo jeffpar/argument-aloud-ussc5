@@ -1,7 +1,238 @@
 [
   {
     "id": "1953-069",
-    "title": "Davis v. County School Board of Prince Edward County",
-    "number": "4"
+    "title": "Brown v. Board of Education (I); Briggs v. Elliott; Davis v. County School Board of Prince Edward County; Gebhart v. Belton",
+    "tags": [
+      "Noteworthy",
+      "14th Amendment: Equal Protection",
+      "Historical Briefs",
+      "Historical Transcripts",
+      "Curiae: Biskupic & Witt",
+      "Curiae: Currie",
+      "Curiae: Farber",
+      "Curiae: Fisher",
+      "Curiae: Gunther",
+      "Curiae: LII",
+      "Curiae: Landmark Briefs",
+      "Curiae: Lewis",
+      "Curiae: Lockhart",
+      "Curiae: Nowak & Rotunda",
+      "Curiae: Oxford Guide",
+      "Curiae: Rehnquist",
+      "Curiae: Schwartz",
+      "Curiae: Stone",
+      "Curiae: Tribe"
+    ],
+    "number": "1;2;4;10",
+    "files": true,
+    "references": false,
+    "argument": "1952-12-09,1952-12-10,1952-12-11",
+    "argument_day": "Tuesday, December 9, 1952; Wednesday, December 10, 1952; Thursday, December 11, 1952",
+    "reargument": "1953-12-07,1953-12-08,1953-12-09",
+    "reargument_day": "Monday, December 7, 1953; Tuesday, December 8, 1953; Wednesday, December 9, 1953",
+    "decision": "1954-05-17",
+    "decision_day": "Monday, May 17, 1954",
+    "citation": "347 U.S. 483",
+    "cites": [
+      {
+        "id": "1949-084",
+        "title": "Sweatt v. Painter (1950)",
+        "term": "1949-10",
+        "decision": "1950-06-05",
+        "count": 4
+      },
+      {
+        "id": "1949-085",
+        "title": "McLaurin v. Oklahoma State Regents for Higher Education (1950)",
+        "term": "1949-10",
+        "decision": "1950-06-05",
+        "count": 2
+      },
+      {
+        "id": "1895-271",
+        "title": "Plessy v. Ferguson (1896)",
+        "term": "1895-10",
+        "decision": "1896-05-18",
+        "count": 7
+      }
+    ],
+    "decision_xml": "/courts/ussc/opinions/xml/us347/us347-0483.xml",
+    "decision_loc": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347483/usrep347483.pdf",
+    "decision_vol": "https://www.supremecourt.gov/pdfs/USReports/USREPORTS-347_PDFA.pdf",
+    "result": "stay, petition, or motion granted; petitioning party received a favorable disposition",
+    "bench": "warren1",
+    "score": "9-0",
+    "votes": [
+      {
+        "name": "EARL WARREN",
+        "side": "majority",
+        "action": "wrote an opinion: majority or plurality",
+        "opinion": true
+      },
+      {
+        "name": "HUGO BLACK",
+        "side": "majority"
+      },
+      {
+        "name": "STANLEY REED",
+        "side": "majority"
+      },
+      {
+        "name": "FELIX FRANKFURTER",
+        "side": "majority"
+      },
+      {
+        "name": "WILLIAM DOUGLAS",
+        "side": "majority"
+      },
+      {
+        "name": "ROBERT JACKSON",
+        "side": "majority"
+      },
+      {
+        "name": "HAROLD BURTON",
+        "side": "majority"
+      },
+      {
+        "name": "TOM CLARK",
+        "side": "majority"
+      },
+      {
+        "name": "SHERMAN MINTON",
+        "side": "majority"
+      }
+    ],
+    "events": [
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-09",
+        "title": "Oral Argument in No. 8 on December 9, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/brown-v-board-of-education#tuesday-december-9-1952",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-09",
+        "title": "Oral Argument in No. 101 on December 9, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/briggs-v-elliott#tuesday-december-9-1952",
+        "advocates": [
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR."
+          }
+        ],
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-10",
+        "title": "Oral Argument in No. 101 on December 10, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/briggs-v-elliott#wednesday-december-10-1952",
+        "advocates": [
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR."
+          }
+        ],
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-10",
+        "title": "Oral Argument in No. 191 on December 10, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/davis-v-county-school-board#wednesday-december-10-1952",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-10",
+        "title": "Oral Argument in No. 413 on December 10, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/bolling-v-sharpe#wednesday-december-10-1952",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-11",
+        "title": "Oral Argument in No. 413 on December 11, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/bolling-v-sharpe#thursday-december-11-1952",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "argument",
+        "date": "1952-12-11",
+        "title": "Oral Argument in No. 448 on December 11, 1952",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/gebhart-v-belton#thursday-december-11-1952",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-07",
+        "title": "Oral Reargument in Nos. 2 (101) and 4 (191) on December 7, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/briggs-and-davis#monday-december-7-1953",
+        "advocates": [
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR."
+          }
+        ],
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-08",
+        "title": "Oral Reargument in No. 1 on December 8, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/brown-v-board-of-education#tuesday-december-8-1953",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-08",
+        "title": "Oral Reargument in No. 8 on December 8, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/bolling-v-sharpe#tuesday-december-8-1953",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-08",
+        "title": "Oral Reargument in Nos. 2 (101) and 4 (191) on December 8, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/briggs-and-davis#tuesday-december-8-1953",
+        "advocates": [
+          {
+            "name": "THURGOOD MARSHALL",
+            "title": "MR."
+          }
+        ],
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-09",
+        "title": "Oral Reargument in No. 8 on December 9, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/bolling-v-sharpe#wednesday-december-9-1953",
+        "view": "pane"
+      },
+      {
+        "source": "journal",
+        "type": "reargument",
+        "date": "1953-12-09",
+        "title": "Oral Reargument in No. 10 on December 9, 1953",
+        "transcript_url": "https://lonedissent.org/transcripts/pre-1955/brown1/gebhart-v-belton#wednesday-december-9-1953",
+        "view": "pane"
+      }
+    ],
+    "scdb_check": "argument,reargument",
+    "scdb_message": "SCDB argument date (1952-12-08) incorrect; SCDB argument dates incomplete; SCDB reargument dates incomplete"
   }
 ]
